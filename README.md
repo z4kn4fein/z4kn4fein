@@ -2,6 +2,9 @@
 
 I'm Peter Csajtai - aka [@z4kn4fein](https://github.com/z4kn4fein), developer from Hungary.
 
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8700582?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/8700582)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csajtai-p%C3%A9ter-45395341/)
+
 ### 💻 GitHub Stats
 
 <div>
