@@ -3,6 +3,12 @@
 ---
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#60](https://github.com/configcat/.net-sdk/pull/60) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
+2. 🎉 Merged PR [#57](https://github.com/configcat/go-sdk/pull/57) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+3. 💪 Opened PR [#57](https://github.com/configcat/go-sdk/pull/57) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+4. 🗣 Commented on [#60](https://github.com/configcat/.net-sdk/issues/60) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
+5. 💪 Opened PR [#60](https://github.com/configcat/.net-sdk/pull/60) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
+<!--END_SECTION:activity-->
 
 ---
 
