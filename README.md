@@ -5,8 +5,8 @@ I'm Peter Csajtai - aka [@z4kn4fein](https://github.com/z4kn4fein), developer fr
 ### 💻 GitHub Stats
 
 <div>
-  <img height="150px" src="https://github-readme-stats-pcsajtai.vercel.app/api?username=z4kn4fein&show_icons=true&hide_border=true&count_private=true&custom_title=Stats&theme=dracula&line_height=24&hide_title=true">
-  <img height="150px" src="https://streak-stats.demolab.com?user=z4kn4fein&theme=dracula&hide_border=true">
+  <img height="140px" src="https://github-readme-stats-pcsajtai.vercel.app/api?username=z4kn4fein&show_icons=true&hide_border=true&count_private=true&custom_title=Stats&theme=dracula&line_height=24&hide_title=true">
+  <img height="140px" src="https://streak-stats.demolab.com?user=z4kn4fein&theme=dracula&hide_border=true">
   
 </div>
 
