@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/configcat/.net-sdk/pull/60) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
-2. 🎉 Merged PR [#57](https://github.com/configcat/go-sdk/pull/57) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-3. 💪 Opened PR [#57](https://github.com/configcat/go-sdk/pull/57) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-4. 🗣 Commented on [#60](https://github.com/configcat/.net-sdk/issues/60) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
-5. 💪 Opened PR [#60](https://github.com/configcat/.net-sdk/pull/60) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
+1. 🎉 Merged PR [#213](https://github.com/configcat/docs/pull/213) in [configcat/docs](https://github.com/configcat/docs)
+2. 🎉 Merged PR [#198](https://github.com/configcat/docs/pull/198) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#60](https://github.com/configcat/.net-sdk/pull/60) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
+4. 🎉 Merged PR [#57](https://github.com/configcat/go-sdk/pull/57) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+5. 💪 Opened PR [#57](https://github.com/configcat/go-sdk/pull/57) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
