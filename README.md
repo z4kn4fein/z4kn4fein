@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/z4kn4fein/stashbox/pull/127) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#213](https://github.com/configcat/docs/pull/213) in [configcat/docs](https://github.com/configcat/docs)
-3. 🎉 Merged PR [#198](https://github.com/configcat/docs/pull/198) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#60](https://github.com/configcat/.net-sdk/pull/60) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
+1. 🎉 Merged PR [#128](https://github.com/z4kn4fein/stashbox/pull/128) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#127](https://github.com/z4kn4fein/stashbox/pull/127) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#213](https://github.com/configcat/docs/pull/213) in [configcat/docs](https://github.com/configcat/docs)
+4. 🎉 Merged PR [#198](https://github.com/configcat/docs/pull/198) in [configcat/docs](https://github.com/configcat/docs)
 5. 🎉 Merged PR [#57](https://github.com/configcat/go-sdk/pull/57) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
