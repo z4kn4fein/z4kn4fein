@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/z4kn4fein/stashbox/pull/128) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#127](https://github.com/z4kn4fein/stashbox/pull/127) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#213](https://github.com/configcat/docs/pull/213) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#198](https://github.com/configcat/docs/pull/198) in [configcat/docs](https://github.com/configcat/docs)
-5. 🎉 Merged PR [#57](https://github.com/configcat/go-sdk/pull/57) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. ❌ Closed PR [#11](https://github.com/configcat/dart-sdk/pull/11) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+2. 🎉 Merged PR [#128](https://github.com/z4kn4fein/stashbox/pull/128) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#127](https://github.com/z4kn4fein/stashbox/pull/127) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🎉 Merged PR [#213](https://github.com/configcat/docs/pull/213) in [configcat/docs](https://github.com/configcat/docs)
+5. 🎉 Merged PR [#198](https://github.com/configcat/docs/pull/198) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
