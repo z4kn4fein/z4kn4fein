@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/configcat/dart-sdk/pull/12) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-2. ❌ Closed PR [#11](https://github.com/configcat/dart-sdk/pull/11) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-3. 🎉 Merged PR [#128](https://github.com/z4kn4fein/stashbox/pull/128) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🎉 Merged PR [#127](https://github.com/z4kn4fein/stashbox/pull/127) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🎉 Merged PR [#213](https://github.com/configcat/docs/pull/213) in [configcat/docs](https://github.com/configcat/docs)
+1. 🗣 Commented on [#24](https://github.com/configcat/java-sdk/issues/24) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+2. 🗣 Commented on [#27](https://github.com/configcat/java-sdk/issues/27) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+3. 🎉 Merged PR [#26](https://github.com/configcat/java-sdk/pull/26) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+4. 🗣 Commented on [#25](https://github.com/configcat/java-sdk/issues/25) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+5. 🗣 Commented on [#24](https://github.com/configcat/java-sdk/issues/24) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
