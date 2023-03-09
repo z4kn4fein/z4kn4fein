@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/configcat/php-sdk/issues/29) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 🗣 Commented on [#24](https://github.com/configcat/java-sdk/issues/24) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-3. 🗣 Commented on [#27](https://github.com/configcat/java-sdk/issues/27) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-4. 🎉 Merged PR [#26](https://github.com/configcat/java-sdk/pull/26) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-5. 🗣 Commented on [#25](https://github.com/configcat/java-sdk/issues/25) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+1. 💪 Opened PR [#30](https://github.com/configcat/php-sdk/pull/30) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+2. 🗣 Commented on [#29](https://github.com/configcat/php-sdk/issues/29) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+3. 🗣 Commented on [#24](https://github.com/configcat/java-sdk/issues/24) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+4. 🗣 Commented on [#27](https://github.com/configcat/java-sdk/issues/27) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+5. 🎉 Merged PR [#26](https://github.com/configcat/java-sdk/pull/26) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
