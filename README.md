@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/configcat/php-sdk/issues/29) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 🎉 Merged PR [#130](https://github.com/z4kn4fein/stashbox/pull/130) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#29](https://github.com/configcat/php-sdk/issues/29) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-4. 🎉 Merged PR [#30](https://github.com/configcat/php-sdk/pull/30) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-5. ❌ Closed PR [#13](https://github.com/configcat/dart-sdk/pull/13) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 🗣 Commented on [#27](https://github.com/configcat/java-sdk/issues/27) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+2. ❗️ Closed issue [#24](https://github.com/configcat/java-sdk/issues/24) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+3. ❗️ Closed issue [#29](https://github.com/configcat/php-sdk/issues/29) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+4. 🎉 Merged PR [#130](https://github.com/z4kn4fein/stashbox/pull/130) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#29](https://github.com/configcat/php-sdk/issues/29) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
 <!--END_SECTION:activity-->
