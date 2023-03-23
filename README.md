@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/configcat/java-sdk/issues/27) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-2. ❗️ Closed issue [#24](https://github.com/configcat/java-sdk/issues/24) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-3. ❗️ Closed issue [#29](https://github.com/configcat/php-sdk/issues/29) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-4. 🎉 Merged PR [#130](https://github.com/z4kn4fein/stashbox/pull/130) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🗣 Commented on [#29](https://github.com/configcat/php-sdk/issues/29) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+1. 🗣 Commented on [#6](https://github.com/z4kn4fein/php-semver/issues/6) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+2. 🎉 Merged PR [#6](https://github.com/z4kn4fein/php-semver/pull/6) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+3. 🗣 Commented on [#6](https://github.com/z4kn4fein/php-semver/issues/6) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+4. 🗣 Commented on [#27](https://github.com/configcat/java-sdk/issues/27) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+5. ❗️ Closed issue [#24](https://github.com/configcat/java-sdk/issues/24) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
