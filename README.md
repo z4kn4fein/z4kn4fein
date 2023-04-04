@@ -24,5 +24,5 @@
 2. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 3. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 4. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 🗣 Commented on [#133](https://github.com/z4kn4fein/stashbox/issues/133) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
