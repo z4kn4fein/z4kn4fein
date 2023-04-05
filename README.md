@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/configcat/swift-sdk/pull/36) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-2. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 🎉 Merged PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+2. 🎉 Merged PR [#36](https://github.com/configcat/swift-sdk/pull/36) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. ❌ Reopened PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+4. ❌ Closed PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+5. 💪 Opened PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
