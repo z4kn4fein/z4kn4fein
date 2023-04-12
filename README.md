@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-2. 🎉 Merged PR [#36](https://github.com/configcat/swift-sdk/pull/36) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. ❌ Reopened PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-4. ❌ Closed PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-5. 💪 Opened PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 🗣 Commented on [#5](https://github.com/z4kn4fein/cpp-semver/issues/5) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+2. 🎉 Merged PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+3. 🎉 Merged PR [#36](https://github.com/configcat/swift-sdk/pull/36) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. ❌ Reopened PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+5. ❌ Closed PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
