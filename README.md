@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/z4kn4fein/cpp-semver/pull/6) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-2. 🗣 Commented on [#6](https://github.com/z4kn4fein/cpp-semver/issues/6) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-3. 🎉 Merged PR [#5](https://github.com/z4kn4fein/cpp-semver/pull/5) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-4. 🗣 Commented on [#5](https://github.com/z4kn4fein/cpp-semver/issues/5) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-5. 🎉 Merged PR [#59](https://github.com/configcat/go-sdk/pull/59) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 🎉 Merged PR [#34](https://github.com/configcat/php-sdk/pull/34) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+2. 🗣 Commented on [#34](https://github.com/configcat/php-sdk/issues/34) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+3. 🎉 Merged PR [#6](https://github.com/z4kn4fein/cpp-semver/pull/6) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+4. 🗣 Commented on [#6](https://github.com/z4kn4fein/cpp-semver/issues/6) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+5. 🎉 Merged PR [#5](https://github.com/z4kn4fein/cpp-semver/pull/5) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
 <!--END_SECTION:activity-->
