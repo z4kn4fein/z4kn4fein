@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/configcat/php-sdk/pull/34) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 🗣 Commented on [#34](https://github.com/configcat/php-sdk/issues/34) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-3. 🎉 Merged PR [#6](https://github.com/z4kn4fein/cpp-semver/pull/6) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-4. 🗣 Commented on [#6](https://github.com/z4kn4fein/cpp-semver/issues/6) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-5. 🎉 Merged PR [#5](https://github.com/z4kn4fein/cpp-semver/pull/5) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+1. ❗️ Closed issue [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 🎉 Merged PR [#34](https://github.com/configcat/php-sdk/pull/34) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+4. 🗣 Commented on [#34](https://github.com/configcat/php-sdk/issues/34) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+5. 🎉 Merged PR [#6](https://github.com/z4kn4fein/cpp-semver/pull/6) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
 <!--END_SECTION:activity-->
