@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-2. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🎉 Merged PR [#34](https://github.com/configcat/php-sdk/pull/34) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-4. 🗣 Commented on [#34](https://github.com/configcat/php-sdk/issues/34) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-5. 🎉 Merged PR [#6](https://github.com/z4kn4fein/cpp-semver/pull/6) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+1. 🗣 Commented on [#20](https://github.com/configcat/dart-sdk/issues/20) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+2. 🎉 Merged PR [#19](https://github.com/configcat/dart-sdk/pull/19) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🗣 Commented on [#19](https://github.com/configcat/dart-sdk/issues/19) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+4. ❗️ Closed issue [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 🗣 Commented on [#35](https://github.com/configcat/swift-sdk/issues/35) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
