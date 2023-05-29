@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/8) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-2. 🗣 Commented on [#9](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/9) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-3. 🗣 Commented on [#20](https://github.com/configcat/dart-sdk/issues/20) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-4. 🎉 Merged PR [#19](https://github.com/configcat/dart-sdk/pull/19) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-5. 🗣 Commented on [#19](https://github.com/configcat/dart-sdk/issues/19) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 🎉 Merged PR [#13](https://github.com/configcat/kotlin-sdk/pull/13) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+2. 🎉 Merged PR [#7](https://github.com/z4kn4fein/php-semver/pull/7) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+3. 🎉 Merged PR [#35](https://github.com/z4kn4fein/kotlin-semver/pull/35) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+4. 🗣 Commented on [#8](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/8) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+5. 🗣 Commented on [#9](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/9) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
 <!--END_SECTION:activity-->
