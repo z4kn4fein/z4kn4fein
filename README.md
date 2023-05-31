@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/8) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-2. 🗣 Commented on [#9](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/9) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-3. 🎉 Merged PR [#13](https://github.com/configcat/kotlin-sdk/pull/13) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-4. 🎉 Merged PR [#7](https://github.com/z4kn4fein/php-semver/pull/7) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-5. 🎉 Merged PR [#35](https://github.com/z4kn4fein/kotlin-semver/pull/35) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+1. 💪 Opened PR [#265](https://github.com/configcat/docs/pull/265) in [configcat/docs](https://github.com/configcat/docs)
+2. 🗣 Commented on [#135](https://github.com/z4kn4fein/stashbox/issues/135) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🗣 Commented on [#134](https://github.com/z4kn4fein/stashbox/issues/134) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🗣 Commented on [#9](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/9) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+5. 🗣 Commented on [#8](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/8) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
 <!--END_SECTION:activity-->
