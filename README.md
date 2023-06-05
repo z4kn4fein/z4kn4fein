@@ -21,8 +21,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#135](https://github.com/z4kn4fein/stashbox/issues/135) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🗣 Commented on [#135](https://github.com/z4kn4fein/stashbox/issues/135) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#9](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/9) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-4. 🚀 Published release [v5.1.2](https://github.com/v5.1.2) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🗣 Commented on [#9](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/9) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+2. 🚀 Published release [v5.2.0](https://github.com/v5.2.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+3. 🚀 Published release [Stashbox v5.10.0](https://github.com/Stashbox v5.10.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🗣 Commented on [#135](https://github.com/z4kn4fein/stashbox/issues/135) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#135](https://github.com/z4kn4fein/stashbox/issues/135) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
