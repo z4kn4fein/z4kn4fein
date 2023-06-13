@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v7.10.1](https://github.com/v7.10.1) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-2. 🎉 Merged PR [#61](https://github.com/configcat/go-sdk/pull/61) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-3. 🗣 Commented on [#61](https://github.com/configcat/go-sdk/issues/61) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-4. 🗣 Commented on [#135](https://github.com/z4kn4fein/stashbox/issues/135) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🗣 Commented on [#10](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/10) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+1. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🚀 Published release [v7.10.1](https://github.com/v7.10.1) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+3. 🎉 Merged PR [#61](https://github.com/configcat/go-sdk/pull/61) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+4. 🗣 Commented on [#61](https://github.com/configcat/go-sdk/issues/61) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+5. 🗣 Commented on [#135](https://github.com/z4kn4fein/stashbox/issues/135) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
