@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.2.2](https://github.com/v5.2.2) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-2. 🚀 Published release [Stashbox v5.10.2](https://github.com/Stashbox v5.10.2) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🚀 Published release [v7.10.1](https://github.com/v7.10.1) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-5. 🎉 Merged PR [#61](https://github.com/configcat/go-sdk/pull/61) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 🚀 Published release [v1.1.1](https://github.com/v1.1.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+2. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🗣 Commented on [#35](https://github.com/configcat/php-sdk/issues/35) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+4. 🚀 Published release [v7.1.1](https://github.com/v7.1.1) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+5. 🗣 Commented on [#35](https://github.com/configcat/php-sdk/issues/35) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
 <!--END_SECTION:activity-->
