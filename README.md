@@ -21,8 +21,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
-2. 🗣 Commented on [#26](https://github.com/configcat/ruby-sdk/issues/26) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
-3. 🚀 Published release [v1.1.1](https://github.com/v1.1.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-4. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🗣 Commented on [#35](https://github.com/configcat/php-sdk/issues/35) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+2. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
+3. 🗣 Commented on [#26](https://github.com/configcat/ruby-sdk/issues/26) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
+4. 🚀 Published release [v1.1.1](https://github.com/v1.1.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+5. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
