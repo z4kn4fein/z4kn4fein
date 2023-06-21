@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.5.2](https://github.com/2.5.2) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-2. 🚀 Published release [2.5.1](https://github.com/2.5.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-3. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
+1. 🎉 Merged PR [#14](https://github.com/configcat/kotlin-sdk/pull/14) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+2. 🚀 Published release [2.5.2](https://github.com/2.5.2) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🚀 Published release [2.5.1](https://github.com/2.5.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
 4. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
-5. 🗣 Commented on [#26](https://github.com/configcat/ruby-sdk/issues/26) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
+5. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
 <!--END_SECTION:activity-->
