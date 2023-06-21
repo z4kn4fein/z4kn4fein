@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
-2. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
-3. 🗣 Commented on [#26](https://github.com/configcat/ruby-sdk/issues/26) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
-4. 🚀 Published release [v1.1.1](https://github.com/v1.1.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-5. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🚀 Published release [2.5.2](https://github.com/2.5.2) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+2. 🚀 Published release [2.5.1](https://github.com/2.5.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
+4. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
+5. 🗣 Commented on [#26](https://github.com/configcat/ruby-sdk/issues/26) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
 <!--END_SECTION:activity-->
