@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.3.0](https://github.com/v5.3.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-2. 🚀 Published release [Stashbox v5.11.0](https://github.com/Stashbox v5.11.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#14](https://github.com/configcat/kotlin-sdk/pull/14) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-4. 🚀 Published release [2.5.2](https://github.com/2.5.2) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-5. 🚀 Published release [2.5.1](https://github.com/2.5.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🚀 Published release [v5.3.0](https://github.com/v5.3.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+3. 🚀 Published release [Stashbox v5.11.0](https://github.com/Stashbox v5.11.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🎉 Merged PR [#14](https://github.com/configcat/kotlin-sdk/pull/14) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 🚀 Published release [2.5.2](https://github.com/2.5.2) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
 <!--END_SECTION:activity-->
