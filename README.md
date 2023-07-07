@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#279](https://github.com/configcat/docs/pull/279) in [configcat/docs](https://github.com/configcat/docs)
-2. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
-3. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🚀 Published release [v5.3.0](https://github.com/v5.3.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🚀 Published release [Stashbox v5.11.0](https://github.com/Stashbox v5.11.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🗣 Commented on [#81](https://github.com/configcat/js-sdk/issues/81) in [configcat/js-sdk](https://github.com/configcat/js-sdk)
+2. 💪 Opened PR [#279](https://github.com/configcat/docs/pull/279) in [configcat/docs](https://github.com/configcat/docs)
+3. 🗣 Commented on [#25](https://github.com/configcat/ruby-sdk/issues/25) in [configcat/ruby-sdk](https://github.com/configcat/ruby-sdk)
+4. 🗣 Commented on [#139](https://github.com/z4kn4fein/stashbox/issues/139) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🚀 Published release [v5.3.0](https://github.com/v5.3.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
 <!--END_SECTION:activity-->
