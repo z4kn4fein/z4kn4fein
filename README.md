@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v8.0.2](https://github.com/v8.0.2) in [configcat/js-sdk](https://github.com/configcat/js-sdk)
-2. 🚀 Published release [v8.0.2](https://github.com/v8.0.2) in [configcat/common-js](https://github.com/configcat/common-js)
-3. 🎉 Merged PR [#87](https://github.com/configcat/common-js/pull/87) in [configcat/common-js](https://github.com/configcat/common-js)
-4. 💪 Opened PR [#87](https://github.com/configcat/common-js/pull/87) in [configcat/common-js](https://github.com/configcat/common-js)
-5. 🗣 Commented on [#81](https://github.com/configcat/js-sdk/issues/81) in [configcat/js-sdk](https://github.com/configcat/js-sdk)
+1. 🚀 Published release [v1.0.2](https://github.com/v1.0.2) in [configcat/js-chromium-extension-sdk](https://github.com/configcat/js-chromium-extension-sdk)
+2. 🚀 Published release [v7.0.2](https://github.com/v7.0.2) in [configcat/js-ssr-sdk](https://github.com/configcat/js-ssr-sdk)
+3. 🗣 Commented on [#81](https://github.com/configcat/js-sdk/issues/81) in [configcat/js-sdk](https://github.com/configcat/js-sdk)
+4. 🚀 Published release [v8.0.2](https://github.com/v8.0.2) in [configcat/js-sdk](https://github.com/configcat/js-sdk)
+5. 🚀 Published release [v8.0.2](https://github.com/v8.0.2) in [configcat/common-js](https://github.com/configcat/common-js)
 <!--END_SECTION:activity-->
