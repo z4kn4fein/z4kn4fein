@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v8.0.0](https://github.com/configcat/go-sdk/releases/tag/v8.0.0) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-2. 🎉 Merged PR [#16](https://github.com/configcat/kotlin-sdk/pull/16) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-3. 🗣 Commented on [#62](https://github.com/configcat/go-sdk/issues/62#issuecomment-1632922549) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-4. 🚀 Published release [v1.0.2](https://github.com/configcat/js-chromium-extension-sdk/releases/tag/v1.0.2) in [configcat/js-chromium-extension-sdk](https://github.com/configcat/js-chromium-extension-sdk)
-5. 🚀 Published release [v7.0.2](https://github.com/configcat/js-ssr-sdk/releases/tag/v7.0.2) in [configcat/js-ssr-sdk](https://github.com/configcat/js-ssr-sdk)
+1. 🎉 Merged PR [#8](https://github.com/z4kn4fein/php-semver/pull/8) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+2. 🎉 Merged PR [#36](https://github.com/z4kn4fein/kotlin-semver/pull/36) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+3. 🎉 Merged PR [#290](https://github.com/configcat/docs/pull/290) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#290](https://github.com/configcat/docs/pull/290) in [configcat/docs](https://github.com/configcat/docs)
+5. 🚀 Published release [v8.0.0](https://github.com/configcat/go-sdk/releases/tag/v8.0.0) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
