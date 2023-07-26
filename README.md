@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/z4kn4fein/php-semver/pull/8) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-2. 🎉 Merged PR [#36](https://github.com/z4kn4fein/kotlin-semver/pull/36) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-3. 🎉 Merged PR [#290](https://github.com/configcat/docs/pull/290) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#290](https://github.com/configcat/docs/pull/290) in [configcat/docs](https://github.com/configcat/docs)
-5. 🚀 Published release [v8.0.0](https://github.com/configcat/go-sdk/releases/tag/v8.0.0) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 🎉 Merged PR [#140](https://github.com/z4kn4fein/stashbox/pull/140) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#8](https://github.com/z4kn4fein/php-semver/pull/8) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+3. 🎉 Merged PR [#36](https://github.com/z4kn4fein/kotlin-semver/pull/36) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+4. 🎉 Merged PR [#290](https://github.com/configcat/docs/pull/290) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#290](https://github.com/configcat/docs/pull/290) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
