@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#140](https://github.com/z4kn4fein/stashbox/pull/140) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#8](https://github.com/z4kn4fein/php-semver/pull/8) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-3. 🎉 Merged PR [#36](https://github.com/z4kn4fein/kotlin-semver/pull/36) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-4. 🎉 Merged PR [#290](https://github.com/configcat/docs/pull/290) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#290](https://github.com/configcat/docs/pull/290) in [configcat/docs](https://github.com/configcat/docs)
+1. 🚀 Published release [v9.0.1](https://github.com/configcat/android-sdk/releases/tag/v9.0.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+2. 🚀 Published release [v8.2.1](https://github.com/configcat/java-sdk/releases/tag/v8.2.1) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+3. 🎉 Merged PR [#1](https://github.com/configcat/configcat-proxy/pull/1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🎉 Merged PR [#2](https://github.com/configcat/configcat-proxy/pull/2) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#3](https://github.com/configcat/configcat-proxy/pull/3) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
