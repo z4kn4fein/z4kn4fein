@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v9.0.1](https://github.com/configcat/android-sdk/releases/tag/v9.0.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-2. 🚀 Published release [v8.2.1](https://github.com/configcat/java-sdk/releases/tag/v8.2.1) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-3. 🎉 Merged PR [#1](https://github.com/configcat/configcat-proxy/pull/1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#2](https://github.com/configcat/configcat-proxy/pull/2) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🎉 Merged PR [#3](https://github.com/configcat/configcat-proxy/pull/3) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🎉 Merged PR [#291](https://github.com/configcat/docs/pull/291) in [configcat/docs](https://github.com/configcat/docs)
+2. 🚀 Published release [v0.1.0](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🚀 Published release [v0.1.0](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🚀 Published release [v9.0.1](https://github.com/configcat/android-sdk/releases/tag/v9.0.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+5. 🚀 Published release [v8.2.1](https://github.com/configcat/java-sdk/releases/tag/v8.2.1) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
