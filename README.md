@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#293](https://github.com/configcat/docs/pull/293) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#293](https://github.com/configcat/docs/pull/293) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v0.1.1](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🚀 Published release [v8.2.2](https://github.com/configcat/java-sdk/releases/tag/v8.2.2) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-5. 🎉 Merged PR [#291](https://github.com/configcat/docs/pull/291) in [configcat/docs](https://github.com/configcat/docs)
+1. 🎉 Merged PR [#294](https://github.com/configcat/docs/pull/294) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#294](https://github.com/configcat/docs/pull/294) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#293](https://github.com/configcat/docs/pull/293) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#293](https://github.com/configcat/docs/pull/293) in [configcat/docs](https://github.com/configcat/docs)
+5. 🚀 Published release [v0.1.1](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
