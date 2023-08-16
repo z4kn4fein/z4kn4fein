@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#298](https://github.com/configcat/docs/pull/298) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v0.1.2](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.2) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🚀 Published release [v8.0.1](https://github.com/configcat/go-sdk/releases/tag/v8.0.1) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-4. 🎉 Merged PR [#64](https://github.com/configcat/go-sdk/pull/64) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-5. 🎉 Merged PR [#63](https://github.com/configcat/go-sdk/pull/63) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 🗣 Commented on [#142](https://github.com/z4kn4fein/stashbox/issues/142#issuecomment-1680180001) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#298](https://github.com/configcat/docs/pull/298) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#298](https://github.com/configcat/docs/pull/298) in [configcat/docs](https://github.com/configcat/docs)
+4. 🚀 Published release [v0.1.2](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.2) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🚀 Published release [v8.0.1](https://github.com/configcat/go-sdk/releases/tag/v8.0.1) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
