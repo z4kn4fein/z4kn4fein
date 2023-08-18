@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/z4kn4fein/stashbox/issues/142#issuecomment-1681273156) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🚀 Published release [Stashbox v5.11.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.11.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#142](https://github.com/z4kn4fein/stashbox/issues/142#issuecomment-1680318286) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#142](https://github.com/z4kn4fein/stashbox/issues/142#issuecomment-1680180001) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🎉 Merged PR [#298](https://github.com/configcat/docs/pull/298) in [configcat/docs](https://github.com/configcat/docs)
+1. 💪 Opened PR [#21](https://github.com/configcat/dart-sdk/pull/21) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+2. 🗣 Commented on [#142](https://github.com/z4kn4fein/stashbox/issues/142#issuecomment-1681273156) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🚀 Published release [Stashbox v5.11.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.11.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🗣 Commented on [#142](https://github.com/z4kn4fein/stashbox/issues/142#issuecomment-1680318286) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#142](https://github.com/z4kn4fein/stashbox/issues/142#issuecomment-1680180001) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
