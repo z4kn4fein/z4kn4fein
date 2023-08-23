@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.0](https://github.com/configcat/dart-sdk/releases/tag/3.0.0) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-2. 🎉 Merged PR [#21](https://github.com/configcat/dart-sdk/pull/21) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-3. 💪 Opened PR [#36](https://github.com/configcat/php-sdk/pull/36) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-4. 💪 Opened PR [#21](https://github.com/configcat/dart-sdk/pull/21) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-5. 🗣 Commented on [#142](https://github.com/z4kn4fein/stashbox/issues/142#issuecomment-1681273156) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 💪 Opened PR [#37](https://github.com/configcat/swift-sdk/pull/37) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🚀 Published release [3.0.0](https://github.com/configcat/dart-sdk/releases/tag/3.0.0) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🎉 Merged PR [#21](https://github.com/configcat/dart-sdk/pull/21) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+4. 💪 Opened PR [#36](https://github.com/configcat/php-sdk/pull/36) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+5. 💪 Opened PR [#21](https://github.com/configcat/dart-sdk/pull/21) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
 <!--END_SECTION:activity-->
