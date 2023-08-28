@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/z4kn4fein/stashbox/issues/143#issuecomment-1693243493) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🚀 Published release [v0.1.3](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.3) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 💪 Opened PR [#303](https://github.com/configcat/docs/pull/303) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#5](https://github.com/configcat/configcat-proxy/pull/5) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 💪 Opened PR [#5](https://github.com/configcat/configcat-proxy/pull/5) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🎉 Merged PR [#22](https://github.com/configcat/dart-sdk/pull/22) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+2. 🗣 Commented on [#143](https://github.com/z4kn4fein/stashbox/issues/143#issuecomment-1693243493) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🚀 Published release [v0.1.3](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.3) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 💪 Opened PR [#303](https://github.com/configcat/docs/pull/303) in [configcat/docs](https://github.com/configcat/docs)
+5. 🎉 Merged PR [#5](https://github.com/configcat/configcat-proxy/pull/5) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
