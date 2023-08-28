@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v10.0.0](https://github.com/configcat/swift-sdk/releases/tag/10.0.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-2. 🎉 Merged PR [#37](https://github.com/configcat/swift-sdk/pull/37) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🚀 Published release [v8.0.0](https://github.com/configcat/php-sdk/releases/tag/v8.0.0) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-4. 🎉 Merged PR [#36](https://github.com/configcat/php-sdk/pull/36) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-5. 🎉 Merged PR [#22](https://github.com/configcat/dart-sdk/pull/22) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 💪 Opened PR [#304](https://github.com/configcat/docs/pull/304) in [configcat/docs](https://github.com/configcat/docs)
+2. 🚀 Published release [v10.0.0](https://github.com/configcat/swift-sdk/releases/tag/10.0.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 🎉 Merged PR [#37](https://github.com/configcat/swift-sdk/pull/37) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. 🚀 Published release [v8.0.0](https://github.com/configcat/php-sdk/releases/tag/v8.0.0) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+5. 🎉 Merged PR [#36](https://github.com/configcat/php-sdk/pull/36) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
 <!--END_SECTION:activity-->
