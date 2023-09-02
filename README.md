@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/configcat/docs/pull/304) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#304](https://github.com/configcat/docs/pull/304) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v10.0.0](https://github.com/configcat/swift-sdk/releases/tag/10.0.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 🎉 Merged PR [#37](https://github.com/configcat/swift-sdk/pull/37) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 🚀 Published release [v8.0.0](https://github.com/configcat/php-sdk/releases/tag/v8.0.0) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+1. 🗣 Commented on [#141](https://github.com/z4kn4fein/stashbox/issues/141#issuecomment-1703834551) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🗣 Commented on [#143](https://github.com/z4kn4fein/stashbox/issues/143#issuecomment-1703832980) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#304](https://github.com/configcat/docs/pull/304) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#304](https://github.com/configcat/docs/pull/304) in [configcat/docs](https://github.com/configcat/docs)
+5. 🚀 Published release [v10.0.0](https://github.com/configcat/swift-sdk/releases/tag/10.0.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
