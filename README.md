@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/configcat/flutter-preferences-cache/pull/3) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-2. 🎉 Merged PR [#41](https://github.com/configcat/android-sdk/pull/41) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-3. 🎉 Merged PR [#145](https://github.com/z4kn4fein/stashbox/pull/145) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#144](https://github.com/z4kn4fein/stashbox/issues/144#issuecomment-1704890119) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🎉 Merged PR [#4](https://github.com/configcat/flutter-preferences-cache/pull/4) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+1. 🚀 Published release [Stashbox v5.12.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.12.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#3](https://github.com/configcat/flutter-preferences-cache/pull/3) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+3. 🎉 Merged PR [#41](https://github.com/configcat/android-sdk/pull/41) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+4. 🎉 Merged PR [#145](https://github.com/z4kn4fein/stashbox/pull/145) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#144](https://github.com/z4kn4fein/stashbox/issues/144#issuecomment-1704890119) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
