@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Stashbox v5.12.2](https://github.com/z4kn4fein/stashbox/releases/tag/5.12.2) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🚀 Published release [Stashbox v5.12.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.12.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#3](https://github.com/configcat/flutter-preferences-cache/pull/3) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-4. 🎉 Merged PR [#41](https://github.com/configcat/android-sdk/pull/41) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-5. 🎉 Merged PR [#145](https://github.com/z4kn4fein/stashbox/pull/145) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🔒 Closed issue [#143](https://github.com/z4kn4fein/stashbox/issues/143) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#23](https://github.com/configcat/dart-sdk/pull/23) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🎉 Merged PR [#65](https://github.com/configcat/go-sdk/pull/65) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+4. 🎉 Merged PR [#38](https://github.com/configcat/swift-sdk/pull/38) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 🎉 Merged PR [#2](https://github.com/configcat/php7-sdk/pull/2) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
 <!--END_SECTION:activity-->
