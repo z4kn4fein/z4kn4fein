@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/z4kn4fein/kotlin-semver/pull/37) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-2. 🔒 Closed issue [#143](https://github.com/z4kn4fein/stashbox/issues/143) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#23](https://github.com/configcat/dart-sdk/pull/23) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-4. 🎉 Merged PR [#65](https://github.com/configcat/go-sdk/pull/65) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-5. 🎉 Merged PR [#38](https://github.com/configcat/swift-sdk/pull/38) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 🎉 Merged PR [#37](https://github.com/configcat/java-sdk/pull/37) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+2. 🎉 Merged PR [#17](https://github.com/configcat/kotlin-sdk/pull/17) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+3. 🎉 Merged PR [#66](https://github.com/configcat/go-sdk/pull/66) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+4. 🎉 Merged PR [#9](https://github.com/z4kn4fein/php-semver/pull/9) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+5. 🎉 Merged PR [#3](https://github.com/configcat/php7-sdk/pull/3) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
 <!--END_SECTION:activity-->
