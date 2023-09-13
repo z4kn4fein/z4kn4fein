@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/configcat/php7-sdk/pull/4) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-2. 🎉 Merged PR [#37](https://github.com/configcat/java-sdk/pull/37) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-3. 🎉 Merged PR [#17](https://github.com/configcat/kotlin-sdk/pull/17) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-4. 🎉 Merged PR [#66](https://github.com/configcat/go-sdk/pull/66) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-5. 🎉 Merged PR [#9](https://github.com/z4kn4fein/php-semver/pull/9) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+1. 🚀 Published release [v0.1.4](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.4) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🚀 Published release [v2.0.0](https://github.com/configcat/php7-sdk/releases/tag/v2.0.0) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+3. 🎉 Merged PR [#4](https://github.com/configcat/php7-sdk/pull/4) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+4. 💪 Opened PR [#4](https://github.com/configcat/php7-sdk/pull/4) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+5. 🎉 Merged PR [#37](https://github.com/configcat/java-sdk/pull/37) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
