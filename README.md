@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#308](https://github.com/configcat/docs/pull/308) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#308](https://github.com/configcat/docs/pull/308) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v0.1.4](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.4) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🚀 Published release [v2.0.0](https://github.com/configcat/php7-sdk/releases/tag/v2.0.0) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-5. 🎉 Merged PR [#4](https://github.com/configcat/php7-sdk/pull/4) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+1. 🎉 Merged PR [#310](https://github.com/configcat/docs/pull/310) in [configcat/docs](https://github.com/configcat/docs)
+2. 🚀 Published release [v0.1.5](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.5) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#7](https://github.com/configcat/configcat-proxy/pull/7) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 💪 Opened PR [#310](https://github.com/configcat/docs/pull/310) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#7](https://github.com/configcat/configcat-proxy/pull/7) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
