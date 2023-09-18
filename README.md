@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/z4kn4fein/stashbox/issues/134#issuecomment-1721755615) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#310](https://github.com/configcat/docs/pull/310) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v0.1.5](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.5) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#7](https://github.com/configcat/configcat-proxy/pull/7) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 💪 Opened PR [#310](https://github.com/configcat/docs/pull/310) in [configcat/docs](https://github.com/configcat/docs)
+1. 🎉 Merged PR [#9](https://github.com/configcat/configcat-proxy/pull/9) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#8](https://github.com/configcat/configcat-proxy/pull/8) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#10](https://github.com/configcat/configcat-proxy/pull/10) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🗣 Commented on [#134](https://github.com/z4kn4fein/stashbox/issues/134#issuecomment-1721755615) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🎉 Merged PR [#310](https://github.com/configcat/docs/pull/310) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
