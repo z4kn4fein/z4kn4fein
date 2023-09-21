@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.6](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.6) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🎉 Merged PR [#11](https://github.com/configcat/configcat-proxy/pull/11) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 💪 Opened PR [#11](https://github.com/configcat/configcat-proxy/pull/11) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#8](https://github.com/z4kn4fein/cpp-semver/pull/8) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-5. 🗣 Commented on [#8](https://github.com/z4kn4fein/cpp-semver/pull/8#issuecomment-1725118365) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+1. 💪 Opened PR [#315](https://github.com/configcat/docs/pull/315) in [configcat/docs](https://github.com/configcat/docs)
+2. 🚀 Published release [v0.1.6](https://github.com/configcat/configcat-proxy/releases/tag/v0.1.6) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#11](https://github.com/configcat/configcat-proxy/pull/11) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 💪 Opened PR [#11](https://github.com/configcat/configcat-proxy/pull/11) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#8](https://github.com/z4kn4fein/cpp-semver/pull/8) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
 <!--END_SECTION:activity-->
