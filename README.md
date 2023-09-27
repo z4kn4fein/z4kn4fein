@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/configcat/php-sdk/pull/42) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 🗣 Commented on [#316](https://github.com/configcat/docs/pull/316#issuecomment-1733798240) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v0.2.0](https://github.com/configcat/configcat-proxy/releases/tag/v0.2.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#316](https://github.com/configcat/docs/pull/316) in [configcat/docs](https://github.com/configcat/docs)
-5. 🎉 Merged PR [#12](https://github.com/configcat/configcat-proxy/pull/12) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🚀 Published release [v2.2.0](https://github.com/configcat/scan-repository/releases/tag/v2.2.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
+2. 🚀 Published release [v1.9.0](https://github.com/configcat/cli/releases/tag/v1.9.0) in [configcat/cli](https://github.com/configcat/cli)
+3. 🚀 Published release [v1.9.0](https://github.com/configcat/cli/releases/tag/v1.9.0) in [configcat/cli](https://github.com/configcat/cli)
+4. 🚀 Published release [v1.9.0](https://github.com/configcat/cli/releases/tag/v1.9.0) in [configcat/cli](https://github.com/configcat/cli)
+5. 🎉 Merged PR [#10](https://github.com/configcat/cli/pull/10) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
