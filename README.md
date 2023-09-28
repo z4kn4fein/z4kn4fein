@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2.0](https://github.com/configcat/scan-repository/releases/tag/v2.2.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
-2. 🚀 Published release [v1.9.0](https://github.com/configcat/cli/releases/tag/v1.9.0) in [configcat/cli](https://github.com/configcat/cli)
-3. 🚀 Published release [v1.9.0](https://github.com/configcat/cli/releases/tag/v1.9.0) in [configcat/cli](https://github.com/configcat/cli)
+1. 💪 Opened PR [#42](https://github.com/configcat/android-sdk/pull/42) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+2. 💪 Opened PR [#38](https://github.com/configcat/java-sdk/pull/38) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+3. 🚀 Published release [v2.2.0](https://github.com/configcat/scan-repository/releases/tag/v2.2.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
 4. 🚀 Published release [v1.9.0](https://github.com/configcat/cli/releases/tag/v1.9.0) in [configcat/cli](https://github.com/configcat/cli)
-5. 🎉 Merged PR [#10](https://github.com/configcat/cli/pull/10) in [configcat/cli](https://github.com/configcat/cli)
+5. 🚀 Published release [v1.9.0](https://github.com/configcat/cli/releases/tag/v1.9.0) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
