@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.1](https://github.com/configcat/php7-sdk/releases/tag/v2.1.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-2. 🎉 Merged PR [#317](https://github.com/configcat/docs/pull/317) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v2.1.0](https://github.com/configcat/php7-sdk/releases/tag/v2.1.0) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-4. 🚀 Published release [v9.1.1](https://github.com/configcat/android-sdk/releases/tag/v9.1.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-5. 🗣 Commented on [#40](https://github.com/configcat/php-sdk/issues/40#issuecomment-1739389550) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+1. 🎉 Merged PR [#146](https://github.com/z4kn4fein/stashbox/pull/146) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🚀 Published release [v2.1.1](https://github.com/configcat/php7-sdk/releases/tag/v2.1.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+3. 🎉 Merged PR [#317](https://github.com/configcat/docs/pull/317) in [configcat/docs](https://github.com/configcat/docs)
+4. 🚀 Published release [v2.1.0](https://github.com/configcat/php7-sdk/releases/tag/v2.1.0) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+5. 🚀 Published release [v9.1.1](https://github.com/configcat/android-sdk/releases/tag/v9.1.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
 <!--END_SECTION:activity-->
