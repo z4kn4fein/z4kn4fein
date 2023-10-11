@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/z4kn4fein/stashbox/pull/146) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🚀 Published release [v2.1.1](https://github.com/configcat/php7-sdk/releases/tag/v2.1.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-3. 🎉 Merged PR [#317](https://github.com/configcat/docs/pull/317) in [configcat/docs](https://github.com/configcat/docs)
-4. 🚀 Published release [v2.1.0](https://github.com/configcat/php7-sdk/releases/tag/v2.1.0) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-5. 🚀 Published release [v9.1.1](https://github.com/configcat/android-sdk/releases/tag/v9.1.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+1. 🚀 Published release [v0.2.1](https://github.com/configcat/configcat-proxy/releases/tag/v0.2.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#13](https://github.com/configcat/configcat-proxy/pull/13) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 💪 Opened PR [#323](https://github.com/configcat/docs/pull/323) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#13](https://github.com/configcat/configcat-proxy/pull/13) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#146](https://github.com/z4kn4fein/stashbox/pull/146) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
