@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v0.3.2](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.2) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+1. 🎉 Merged PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
 3. 🚀 Published release [v0.3.2](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.2) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-4. 💪 Opened PR [#40](https://github.com/configcat/java-sdk/pull/40) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-5. 🎉 Merged PR [#147](https://github.com/z4kn4fein/stashbox/pull/147) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🚀 Published release [v0.3.2](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.2) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+5. 💪 Opened PR [#40](https://github.com/configcat/java-sdk/pull/40) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
