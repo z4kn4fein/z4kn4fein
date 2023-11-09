@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v8.4.0](https://github.com/configcat/java-sdk/releases/tag/v8.4.0) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-2. 🎉 Merged PR [#40](https://github.com/configcat/java-sdk/pull/40) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-3. 🎉 Merged PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
-5. 🚀 Published release [v0.3.2](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.2) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+1. 🎉 Merged PR [#151](https://github.com/z4kn4fein/stashbox/pull/151) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#149](https://github.com/z4kn4fein/stashbox/pull/149) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#148](https://github.com/z4kn4fein/stashbox/pull/148) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🚀 Published release [v8.4.0](https://github.com/configcat/java-sdk/releases/tag/v8.4.0) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+5. 🎉 Merged PR [#40](https://github.com/configcat/java-sdk/pull/40) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
