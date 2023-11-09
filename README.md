@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v0.3.2](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.2) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-4. 🚀 Published release [v0.3.2](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.2) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-5. 💪 Opened PR [#40](https://github.com/configcat/java-sdk/pull/40) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+1. 🚀 Published release [v8.4.0](https://github.com/configcat/java-sdk/releases/tag/v8.4.0) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+2. 🎉 Merged PR [#40](https://github.com/configcat/java-sdk/pull/40) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+3. 🎉 Merged PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#332](https://github.com/configcat/docs/pull/332) in [configcat/docs](https://github.com/configcat/docs)
+5. 🚀 Published release [v0.3.2](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.2) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
 <!--END_SECTION:activity-->
