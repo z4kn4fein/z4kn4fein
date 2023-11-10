@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#151](https://github.com/z4kn4fein/stashbox/pull/151) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#149](https://github.com/z4kn4fein/stashbox/pull/149) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#148](https://github.com/z4kn4fein/stashbox/pull/148) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🚀 Published release [v8.4.0](https://github.com/configcat/java-sdk/releases/tag/v8.4.0) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-5. 🎉 Merged PR [#40](https://github.com/configcat/java-sdk/pull/40) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+1. 🚀 Published release [v0.2.3](https://github.com/configcat/configcat-proxy/releases/tag/v0.2.3) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#14](https://github.com/configcat/configcat-proxy/pull/14) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 💪 Opened PR [#14](https://github.com/configcat/configcat-proxy/pull/14) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🎉 Merged PR [#151](https://github.com/z4kn4fein/stashbox/pull/151) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🎉 Merged PR [#149](https://github.com/z4kn4fein/stashbox/pull/149) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
