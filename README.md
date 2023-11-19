@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#134](https://github.com/z4kn4fein/stashbox/issues/134) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🚀 Published release [Stashbox v5.13.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.13.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#152](https://github.com/z4kn4fein/stashbox/pull/152) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🎉 Merged PR [#335](https://github.com/configcat/docs/pull/335) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#335](https://github.com/configcat/docs/pull/335) in [configcat/docs](https://github.com/configcat/docs)
+1. 🚀 Published release [v5.4.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.4.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+2. 🔒 Closed issue [#134](https://github.com/z4kn4fein/stashbox/issues/134) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🚀 Published release [Stashbox v5.13.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.13.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🎉 Merged PR [#152](https://github.com/z4kn4fein/stashbox/pull/152) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🎉 Merged PR [#335](https://github.com/configcat/docs/pull/335) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
