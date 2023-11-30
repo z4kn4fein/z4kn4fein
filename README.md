@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/configcat/go-sdk/issues/68#issuecomment-1831796374) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-2. 🚀 Published release [v5.4.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.4.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-3. 🔒 Closed issue [#134](https://github.com/z4kn4fein/stashbox/issues/134) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🚀 Published release [Stashbox v5.13.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.13.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🎉 Merged PR [#152](https://github.com/z4kn4fein/stashbox/pull/152) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🗣 Commented on [#68](https://github.com/configcat/go-sdk/issues/68#issuecomment-1832774285) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+2. 🚀 Published release [v0.2.4](https://github.com/configcat/configcat-proxy/releases/tag/v0.2.4) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🗣 Commented on [#68](https://github.com/configcat/go-sdk/issues/68#issuecomment-1831796374) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+4. 🚀 Published release [v5.4.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.4.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+5. 🔒 Closed issue [#134](https://github.com/z4kn4fein/stashbox/issues/134) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
