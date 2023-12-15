@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/z4kn4fein/stashbox/issues/156#issuecomment-1855623663) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🚀 Published release [v0.3.3](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.3) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-3. 🎉 Merged PR [#9](https://github.com/z4kn4fein/cpp-semver/pull/9) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-4. 🗣 Commented on [#9](https://github.com/z4kn4fein/cpp-semver/pull/9#issuecomment-1850517646) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-5. 💪 Opened PR [#70](https://github.com/configcat/go-sdk/pull/70) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 🚀 Published release [Stashbox v5.14.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.14.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🗣 Commented on [#156](https://github.com/z4kn4fein/stashbox/issues/156#issuecomment-1855623663) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🚀 Published release [v0.3.3](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.3) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+4. 🎉 Merged PR [#9](https://github.com/z4kn4fein/cpp-semver/pull/9) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+5. 🗣 Commented on [#9](https://github.com/z4kn4fein/cpp-semver/pull/9#issuecomment-1850517646) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
 <!--END_SECTION:activity-->
