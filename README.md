@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/configcat/go-sdk/pull/70#issuecomment-1859786443) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-2. 🗣 Commented on [#156](https://github.com/z4kn4fein/stashbox/issues/156#issuecomment-1857704589) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🚀 Published release [Stashbox v5.14.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.14.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#156](https://github.com/z4kn4fein/stashbox/issues/156#issuecomment-1855623663) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🚀 Published release [v0.3.3](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.3.3) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+1. 🎉 Merged PR [#157](https://github.com/z4kn4fein/stashbox/pull/157) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🗣 Commented on [#70](https://github.com/configcat/go-sdk/pull/70#issuecomment-1859786443) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+3. 🗣 Commented on [#156](https://github.com/z4kn4fein/stashbox/issues/156#issuecomment-1857704589) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🚀 Published release [Stashbox v5.14.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.14.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#156](https://github.com/z4kn4fein/stashbox/issues/156#issuecomment-1855623663) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
