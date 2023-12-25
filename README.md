@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v9.0.1](https://github.com/configcat/go-sdk/releases/tag/v9.0.1) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-2. 🚀 Published release [v9.0.0](https://github.com/configcat/go-sdk/releases/tag/v9.0.0) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-3. ❌ Closed PR [#70](https://github.com/configcat/go-sdk/pull/70) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-4. 🎉 Merged PR [#157](https://github.com/z4kn4fein/stashbox/pull/157) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🗣 Commented on [#70](https://github.com/configcat/go-sdk/pull/70#issuecomment-1859786443) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 🎉 Merged PR [#38](https://github.com/z4kn4fein/kotlin-semver/pull/38) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+2. 🎉 Merged PR [#39](https://github.com/z4kn4fein/kotlin-semver/pull/39) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+3. 🎉 Merged PR [#40](https://github.com/z4kn4fein/kotlin-semver/pull/40) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+4. 🎉 Merged PR [#41](https://github.com/z4kn4fein/kotlin-semver/pull/41) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+5. 🎉 Merged PR [#42](https://github.com/z4kn4fein/kotlin-semver/pull/42) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
 <!--END_SECTION:activity-->
