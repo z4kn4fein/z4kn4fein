@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/configcat/configcat-proxy/pull/16) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🎉 Merged PR [#38](https://github.com/z4kn4fein/kotlin-semver/pull/38) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-3. 🎉 Merged PR [#39](https://github.com/z4kn4fein/kotlin-semver/pull/39) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-4. 🎉 Merged PR [#40](https://github.com/z4kn4fein/kotlin-semver/pull/40) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-5. 🎉 Merged PR [#41](https://github.com/z4kn4fein/kotlin-semver/pull/41) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+1. 🚀 Published release [v9.0.2](https://github.com/configcat/go-sdk/releases/tag/v9.0.2) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+2. ❌ Closed PR [#69](https://github.com/configcat/go-sdk/pull/69) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+3. 🚀 Published release [v9.0.2](https://github.com/configcat/go-sdk/releases/tag/v9.0.2) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+4. 💪 Opened PR [#16](https://github.com/configcat/configcat-proxy/pull/16) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#38](https://github.com/z4kn4fein/kotlin-semver/pull/38) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
 <!--END_SECTION:activity-->
