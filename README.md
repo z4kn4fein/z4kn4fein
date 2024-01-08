@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/z4kn4fein/php-semver/pull/10) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-2. 🚀 Published release [v9.0.3](https://github.com/configcat/go-sdk/releases/tag/v9.0.3) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-3. 🚀 Published release [v9.0.2](https://github.com/configcat/go-sdk/releases/tag/v9.0.2) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-4. ❌ Closed PR [#69](https://github.com/configcat/go-sdk/pull/69) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-5. 🚀 Published release [v9.0.2](https://github.com/configcat/go-sdk/releases/tag/v9.0.2) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 💪 Opened PR [#12](https://github.com/configcat/cli/pull/12) in [configcat/cli](https://github.com/configcat/cli)
+2. 🎉 Merged PR [#10](https://github.com/z4kn4fein/php-semver/pull/10) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+3. 🚀 Published release [v9.0.3](https://github.com/configcat/go-sdk/releases/tag/v9.0.3) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+4. 🚀 Published release [v9.0.2](https://github.com/configcat/go-sdk/releases/tag/v9.0.2) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+5. ❌ Closed PR [#69](https://github.com/configcat/go-sdk/pull/69) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
