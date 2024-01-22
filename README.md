@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/z4kn4fein/stashbox/pull/158) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#352](https://github.com/configcat/docs/pull/352) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#352](https://github.com/configcat/docs/pull/352) in [configcat/docs](https://github.com/configcat/docs)
-4. 🚀 Published release [v2.3.0](https://github.com/configcat/scan-repository/releases/tag/v2.3.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
-5. 🚀 Published release [v1.9.2](https://github.com/configcat/cli/releases/tag/v1.9.2) in [configcat/cli](https://github.com/configcat/cli)
+1. 🎉 Merged PR [#43](https://github.com/z4kn4fein/kotlin-semver/pull/43) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+2. 🎉 Merged PR [#158](https://github.com/z4kn4fein/stashbox/pull/158) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#352](https://github.com/configcat/docs/pull/352) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#352](https://github.com/configcat/docs/pull/352) in [configcat/docs](https://github.com/configcat/docs)
+5. 🚀 Published release [v2.3.0](https://github.com/configcat/scan-repository/releases/tag/v2.3.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
 <!--END_SECTION:activity-->
