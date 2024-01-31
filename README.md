@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/configcat/flutter-preferences-cache/pull/7) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-2. 🎉 Merged PR [#159](https://github.com/z4kn4fein/stashbox/pull/159) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#43](https://github.com/configcat/php-sdk/pull/43) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-4. 🎉 Merged PR [#5](https://github.com/configcat/php7-sdk/pull/5) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-5. 🎉 Merged PR [#11](https://github.com/z4kn4fein/php-semver/pull/11) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+1. 🎉 Merged PR [#366](https://github.com/configcat/docs/pull/366) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#366](https://github.com/configcat/docs/pull/366) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#7](https://github.com/configcat/flutter-preferences-cache/pull/7) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+4. 🎉 Merged PR [#159](https://github.com/z4kn4fein/stashbox/pull/159) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🎉 Merged PR [#43](https://github.com/configcat/php-sdk/pull/43) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
 <!--END_SECTION:activity-->
