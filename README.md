@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#376](https://github.com/configcat/docs/pull/376) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#370](https://github.com/configcat/docs/pull/370) in [configcat/docs](https://github.com/configcat/docs)
-3. 🗣 Commented on [#12](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/12#issuecomment-1927159626) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-4. 🎉 Merged PR [#366](https://github.com/configcat/docs/pull/366) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#366](https://github.com/configcat/docs/pull/366) in [configcat/docs](https://github.com/configcat/docs)
+1. 🚀 Published release [2.0.0](https://github.com/configcat/flutter-preferences-cache/releases/tag/2.0.0) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+2. 🚀 Published release [4.0.1](https://github.com/configcat/dart-sdk/releases/tag/4.0.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🎉 Merged PR [#27](https://github.com/configcat/dart-sdk/pull/27) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+4. 💪 Opened PR [#27](https://github.com/configcat/dart-sdk/pull/27) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+5. 💪 Opened PR [#376](https://github.com/configcat/docs/pull/376) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
