@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#370](https://github.com/configcat/docs/pull/370) in [configcat/docs](https://github.com/configcat/docs)
-2. 🗣 Commented on [#12](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/12#issuecomment-1927159626) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-3. 🎉 Merged PR [#366](https://github.com/configcat/docs/pull/366) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#366](https://github.com/configcat/docs/pull/366) in [configcat/docs](https://github.com/configcat/docs)
-5. 🎉 Merged PR [#7](https://github.com/configcat/flutter-preferences-cache/pull/7) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+1. 💪 Opened PR [#376](https://github.com/configcat/docs/pull/376) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#370](https://github.com/configcat/docs/pull/370) in [configcat/docs](https://github.com/configcat/docs)
+3. 🗣 Commented on [#12](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/12#issuecomment-1927159626) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+4. 🎉 Merged PR [#366](https://github.com/configcat/docs/pull/366) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#366](https://github.com/configcat/docs/pull/366) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
