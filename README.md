@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#376](https://github.com/configcat/docs/pull/376) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v0.3.1](https://github.com/configcat/configcat-proxy/releases/tag/v0.3.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🚀 Published release [2.0.0](https://github.com/configcat/flutter-preferences-cache/releases/tag/2.0.0) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-4. 🚀 Published release [4.0.1](https://github.com/configcat/dart-sdk/releases/tag/4.0.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-5. 🎉 Merged PR [#27](https://github.com/configcat/dart-sdk/pull/27) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 💪 Opened PR [#41](https://github.com/configcat/swift-sdk/pull/41) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🎉 Merged PR [#376](https://github.com/configcat/docs/pull/376) in [configcat/docs](https://github.com/configcat/docs)
+3. 🚀 Published release [v0.3.1](https://github.com/configcat/configcat-proxy/releases/tag/v0.3.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🚀 Published release [2.0.0](https://github.com/configcat/flutter-preferences-cache/releases/tag/2.0.0) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+5. 🚀 Published release [4.0.1](https://github.com/configcat/dart-sdk/releases/tag/4.0.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
 <!--END_SECTION:activity-->
