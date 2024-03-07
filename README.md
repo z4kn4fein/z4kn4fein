@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#388](https://github.com/configcat/docs/pull/388) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#19](https://github.com/configcat/configcat-proxy/pull/19) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🗣 Commented on [#18](https://github.com/configcat/configcat-proxy/issues/18#issuecomment-1980547703) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🗣 Commented on [#17](https://github.com/configcat/configcat-proxy/issues/17#issuecomment-1980546016) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🎉 Merged PR [#40](https://github.com/configcat/swift-sdk/pull/40) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 🚀 Published release [v0.4.0](https://github.com/configcat/configcat-proxy/releases/tag/v0.4.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#19](https://github.com/configcat/configcat-proxy/pull/19) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#388](https://github.com/configcat/docs/pull/388) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#388](https://github.com/configcat/docs/pull/388) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#19](https://github.com/configcat/configcat-proxy/pull/19) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
