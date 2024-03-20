@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.2](https://github.com/configcat/configcat-proxy/releases/tag/v0.4.2) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🎉 Merged PR [#20](https://github.com/configcat/configcat-proxy/pull/20) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🎉 Merged PR [#391](https://github.com/configcat/docs/pull/391) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#391](https://github.com/configcat/docs/pull/391) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#20](https://github.com/configcat/configcat-proxy/pull/20) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🎉 Merged PR [#160](https://github.com/z4kn4fein/stashbox/pull/160) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🚀 Published release [v0.4.2](https://github.com/configcat/configcat-proxy/releases/tag/v0.4.2) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#20](https://github.com/configcat/configcat-proxy/pull/20) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🎉 Merged PR [#391](https://github.com/configcat/docs/pull/391) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#391](https://github.com/configcat/docs/pull/391) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
