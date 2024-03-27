@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#397](https://github.com/configcat/docs/pull/397) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#397](https://github.com/configcat/docs/pull/397) in [configcat/docs](https://github.com/configcat/docs)
-3. 🎉 Merged PR [#396](https://github.com/configcat/docs/pull/396) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#396](https://github.com/configcat/docs/pull/396) in [configcat/docs](https://github.com/configcat/docs)
-5. 🔒 Closed issue [#156](https://github.com/z4kn4fein/stashbox/issues/156) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 💪 Opened PR [#400](https://github.com/configcat/docs/pull/400) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#21](https://github.com/configcat/configcat-proxy/pull/21) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#397](https://github.com/configcat/docs/pull/397) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#397](https://github.com/configcat/docs/pull/397) in [configcat/docs](https://github.com/configcat/docs)
+5. 🎉 Merged PR [#396](https://github.com/configcat/docs/pull/396) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
