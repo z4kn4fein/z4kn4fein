@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#162](https://github.com/z4kn4fein/stashbox/pull/162) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 💪 Opened PR [#404](https://github.com/configcat/docs/pull/404) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v0.5.0](https://github.com/configcat/configcat-proxy/releases/tag/v0.5.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#400](https://github.com/configcat/docs/pull/400) in [configcat/docs](https://github.com/configcat/docs)
-5. 🎉 Merged PR [#21](https://github.com/configcat/configcat-proxy/pull/21) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🚀 Published release [v3.0.0](https://github.com/z4kn4fein/php-semver/releases/tag/v3.0.0) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+2. 🎉 Merged PR [#162](https://github.com/z4kn4fein/stashbox/pull/162) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 💪 Opened PR [#404](https://github.com/configcat/docs/pull/404) in [configcat/docs](https://github.com/configcat/docs)
+4. 🚀 Published release [v0.5.0](https://github.com/configcat/configcat-proxy/releases/tag/v0.5.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#400](https://github.com/configcat/docs/pull/400) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
