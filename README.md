@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.5.1](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.1) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-2. 🎉 Merged PR [#404](https://github.com/configcat/docs/pull/404) in [configcat/docs](https://github.com/configcat/docs)
-3. 🚀 Published release [v5.5.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-4. 🚀 Published release [v3.0.0](https://github.com/z4kn4fein/php-semver/releases/tag/v3.0.0) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-5. 🎉 Merged PR [#162](https://github.com/z4kn4fein/stashbox/pull/162) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 💪 Opened PR [#13](https://github.com/configcat/cli/pull/13) in [configcat/cli](https://github.com/configcat/cli)
+2. 🚀 Published release [v5.5.1](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.1) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+3. 🎉 Merged PR [#404](https://github.com/configcat/docs/pull/404) in [configcat/docs](https://github.com/configcat/docs)
+4. 🚀 Published release [v5.5.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+5. 🚀 Published release [v3.0.0](https://github.com/z4kn4fein/php-semver/releases/tag/v3.0.0) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
 <!--END_SECTION:activity-->
