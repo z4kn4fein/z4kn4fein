@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/z4kn4fein/kotlin-semver/issues/44#issuecomment-2040515648) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-2. 🚀 Published release [2.0.0](https://github.com/z4kn4fein/kotlin-semver/releases/tag/2.0.0) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-3. 🚀 Published release [v2.0.0](https://github.com/configcat/cli/releases/tag/v2.0.0) in [configcat/cli](https://github.com/configcat/cli)
+1. 🗣 Commented on [#163](https://github.com/z4kn4fein/stashbox/issues/163#issuecomment-2042104794) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🗣 Commented on [#44](https://github.com/z4kn4fein/kotlin-semver/issues/44#issuecomment-2040515648) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+3. 🚀 Published release [2.0.0](https://github.com/z4kn4fein/kotlin-semver/releases/tag/2.0.0) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
 4. 🚀 Published release [v2.0.0](https://github.com/configcat/cli/releases/tag/v2.0.0) in [configcat/cli](https://github.com/configcat/cli)
-5. 🎉 Merged PR [#14](https://github.com/configcat/cli/pull/14) in [configcat/cli](https://github.com/configcat/cli)
+5. 🚀 Published release [v2.0.0](https://github.com/configcat/cli/releases/tag/v2.0.0) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
