@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#408](https://github.com/configcat/docs/pull/408) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#408](https://github.com/configcat/docs/pull/408) in [configcat/docs](https://github.com/configcat/docs)
-3. 🗣 Commented on [#163](https://github.com/z4kn4fein/stashbox/issues/163#issuecomment-2042509421) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🚀 Published release [v5.5.2](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.2) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🚀 Published release [Stashbox v5.14.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.14.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🎉 Merged PR [#164](https://github.com/z4kn4fein/stashbox/pull/164) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#408](https://github.com/configcat/docs/pull/408) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#408](https://github.com/configcat/docs/pull/408) in [configcat/docs](https://github.com/configcat/docs)
+4. 🗣 Commented on [#163](https://github.com/z4kn4fein/stashbox/issues/163#issuecomment-2042509421) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🚀 Published release [v5.5.2](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.2) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
 <!--END_SECTION:activity-->
