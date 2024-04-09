@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com/z4kn4fein/stashbox/pull/164) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#408](https://github.com/configcat/docs/pull/408) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#408](https://github.com/configcat/docs/pull/408) in [configcat/docs](https://github.com/configcat/docs)
-4. 🗣 Commented on [#163](https://github.com/z4kn4fein/stashbox/issues/163#issuecomment-2042509421) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🚀 Published release [v5.5.2](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.2) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+1. 🚀 Published release [3.0.1](https://github.com/configcat/kotlin-sdk/releases/tag/3.0.1) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+2. 🚀 Published release [v11.0.2](https://github.com/configcat/swift-sdk/releases/tag/11.0.2) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 🎉 Merged PR [#30](https://github.com/configcat/kotlin-sdk/pull/30) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🎉 Merged PR [#43](https://github.com/configcat/swift-sdk/pull/43) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 💪 Opened PR [#43](https://github.com/configcat/swift-sdk/pull/43) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
