@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/configcat/kotlin-sdk/issues/29#issuecomment-2046087366) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 🚀 Published release [3.0.1](https://github.com/configcat/kotlin-sdk/releases/tag/3.0.1) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-3. 🚀 Published release [v11.0.2](https://github.com/configcat/swift-sdk/releases/tag/11.0.2) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 🎉 Merged PR [#30](https://github.com/configcat/kotlin-sdk/pull/30) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🎉 Merged PR [#43](https://github.com/configcat/swift-sdk/pull/43) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. ❌ Closed PR [#8](https://github.com/configcat/php7-sdk/pull/8) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+2. 🗣 Commented on [#13](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/13#issuecomment-2047635726) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+3. 🗣 Commented on [#163](https://github.com/z4kn4fein/stashbox/issues/163#issuecomment-2047631498) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🗣 Commented on [#29](https://github.com/configcat/kotlin-sdk/issues/29#issuecomment-2046087366) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 🚀 Published release [3.0.1](https://github.com/configcat/kotlin-sdk/releases/tag/3.0.1) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
 <!--END_SECTION:activity-->
