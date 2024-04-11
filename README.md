@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/configcat/configcat-proxy/pull/22) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 💪 Opened PR [#71](https://github.com/configcat/go-sdk/pull/71) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-3. ❌ Closed PR [#8](https://github.com/configcat/php7-sdk/pull/8) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-4. 🗣 Commented on [#13](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/13#issuecomment-2047635726) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🗣 Commented on [#163](https://github.com/z4kn4fein/stashbox/issues/163#issuecomment-2047631498) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🎉 Merged PR [#411](https://github.com/configcat/docs/pull/411) in [configcat/docs](https://github.com/configcat/docs)
+2. 🚀 Published release [v1.0.0](https://github.com/configcat/configcat-proxy/releases/tag/v1.0.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#22](https://github.com/configcat/configcat-proxy/pull/22) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🚀 Published release [v9.0.4](https://github.com/configcat/go-sdk/releases/tag/v9.0.4) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+5. 🎉 Merged PR [#71](https://github.com/configcat/go-sdk/pull/71) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
