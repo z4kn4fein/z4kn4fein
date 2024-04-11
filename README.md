@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#411](https://github.com/configcat/docs/pull/411) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v1.0.0](https://github.com/configcat/configcat-proxy/releases/tag/v1.0.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🎉 Merged PR [#22](https://github.com/configcat/configcat-proxy/pull/22) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🚀 Published release [v9.0.4](https://github.com/configcat/go-sdk/releases/tag/v9.0.4) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-5. 🎉 Merged PR [#71](https://github.com/configcat/go-sdk/pull/71) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+1. 🚀 Published release [v9.0.6](https://github.com/configcat/go-sdk/releases/tag/v9.0.6) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+2. 🚀 Published release [v9.0.5](https://github.com/configcat/go-sdk/releases/tag/v9.0.5) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+3. 🎉 Merged PR [#411](https://github.com/configcat/docs/pull/411) in [configcat/docs](https://github.com/configcat/docs)
+4. 🚀 Published release [v1.0.0](https://github.com/configcat/configcat-proxy/releases/tag/v1.0.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#22](https://github.com/configcat/configcat-proxy/pull/22) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
