@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/configcat/php-sdk/pull/48) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 🎉 Merged PR [#415](https://github.com/configcat/docs/pull/415) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#415](https://github.com/configcat/docs/pull/415) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#413](https://github.com/configcat/docs/pull/413) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#413](https://github.com/configcat/docs/pull/413) in [configcat/docs](https://github.com/configcat/docs)
+1. 💪 Opened PR [#419](https://github.com/configcat/docs/pull/419) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#9](https://github.com/configcat/php7-sdk/pull/9) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+3. 🚀 Published release [v9.1.1](https://github.com/configcat/php-sdk/releases/tag/v9.1.1) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+4. 🎉 Merged PR [#48](https://github.com/configcat/php-sdk/pull/48) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+5. 💪 Opened PR [#48](https://github.com/configcat/php-sdk/pull/48) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
 <!--END_SECTION:activity-->
