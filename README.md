@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.1](https://github.com/configcat/php7-sdk/releases/tag/v3.0.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-2. 🎉 Merged PR [#9](https://github.com/configcat/php7-sdk/pull/9) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
-3. 🎉 Merged PR [#419](https://github.com/configcat/docs/pull/419) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#419](https://github.com/configcat/docs/pull/419) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#9](https://github.com/configcat/php7-sdk/pull/9) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+1. 🎉 Merged PR [#423](https://github.com/configcat/docs/pull/423) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#423](https://github.com/configcat/docs/pull/423) in [configcat/docs](https://github.com/configcat/docs)
+3. 🚀 Published release [v3.0.1](https://github.com/configcat/php7-sdk/releases/tag/v3.0.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+4. 🎉 Merged PR [#9](https://github.com/configcat/php7-sdk/pull/9) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+5. 🎉 Merged PR [#419](https://github.com/configcat/docs/pull/419) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
