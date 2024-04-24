@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
-3. 🎉 Merged PR [#423](https://github.com/configcat/docs/pull/423) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#423](https://github.com/configcat/docs/pull/423) in [configcat/docs](https://github.com/configcat/docs)
-5. 🚀 Published release [v3.0.1](https://github.com/configcat/php7-sdk/releases/tag/v3.0.1) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+1. 💪 Opened PR [#737](https://github.com/simpleidserver/SimpleIdServer/pull/737) in [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer)
+2. 🎉 Merged PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
+4. 🎉 Merged PR [#423](https://github.com/configcat/docs/pull/423) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#423](https://github.com/configcat/docs/pull/423) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
