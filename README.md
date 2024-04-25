@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#737](https://github.com/simpleidserver/SimpleIdServer/pull/737) in [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer)
-2. 🎉 Merged PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#423](https://github.com/configcat/docs/pull/423) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#423](https://github.com/configcat/docs/pull/423) in [configcat/docs](https://github.com/configcat/docs)
+1. 🎉 Merged PR [#12](https://github.com/z4kn4fein/php-semver/pull/12) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+2. 🎉 Merged PR [#46](https://github.com/z4kn4fein/kotlin-semver/pull/46) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+3. 💪 Opened PR [#737](https://github.com/simpleidserver/SimpleIdServer/pull/737) in [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer)
+4. 🎉 Merged PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
