@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/z4kn4fein/php-semver/pull/12) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-2. 🎉 Merged PR [#46](https://github.com/z4kn4fein/kotlin-semver/pull/46) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-3. 💪 Opened PR [#737](https://github.com/simpleidserver/SimpleIdServer/pull/737) in [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer)
-4. 🎉 Merged PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#426](https://github.com/configcat/docs/pull/426) in [configcat/docs](https://github.com/configcat/docs)
+1. 💪 Opened PR [#31](https://github.com/configcat/dart-sdk/pull/31) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+2. 💪 Opened PR [#51](https://github.com/configcat/android-sdk/pull/51) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+3. 💪 Opened PR [#48](https://github.com/configcat/java-sdk/pull/48) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+4. 💪 Opened PR [#34](https://github.com/configcat/kotlin-sdk/pull/34) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 🎉 Merged PR [#12](https://github.com/z4kn4fein/php-semver/pull/12) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
 <!--END_SECTION:activity-->
