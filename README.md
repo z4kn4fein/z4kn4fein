@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/configcat/dart-sdk/pull/31) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-2. 💪 Opened PR [#51](https://github.com/configcat/android-sdk/pull/51) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-3. 💪 Opened PR [#48](https://github.com/configcat/java-sdk/pull/48) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-4. 💪 Opened PR [#34](https://github.com/configcat/kotlin-sdk/pull/34) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🎉 Merged PR [#12](https://github.com/z4kn4fein/php-semver/pull/12) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+1. 💪 Opened PR [#44](https://github.com/configcat/swift-sdk/pull/44) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 💪 Opened PR [#31](https://github.com/configcat/dart-sdk/pull/31) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 💪 Opened PR [#51](https://github.com/configcat/android-sdk/pull/51) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+4. 💪 Opened PR [#48](https://github.com/configcat/java-sdk/pull/48) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+5. 💪 Opened PR [#34](https://github.com/configcat/kotlin-sdk/pull/34) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
 <!--END_SECTION:activity-->
