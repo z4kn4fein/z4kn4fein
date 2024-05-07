@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/configcat/swift-sdk/pull/44) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-2. 💪 Opened PR [#31](https://github.com/configcat/dart-sdk/pull/31) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-3. 💪 Opened PR [#51](https://github.com/configcat/android-sdk/pull/51) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-4. 💪 Opened PR [#48](https://github.com/configcat/java-sdk/pull/48) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-5. 💪 Opened PR [#34](https://github.com/configcat/kotlin-sdk/pull/34) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+1. 🚀 Published release [v11.0.3](https://github.com/configcat/swift-sdk/releases/tag/11.0.3) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🎉 Merged PR [#44](https://github.com/configcat/swift-sdk/pull/44) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 🚀 Published release [3.1.1](https://github.com/configcat/kotlin-sdk/releases/tag/3.1.1) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🚀 Published release [v10.1.2](https://github.com/configcat/android-sdk/releases/tag/v10.1.2) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+5. 🚀 Published release [v9.1.2](https://github.com/configcat/java-sdk/releases/tag/v9.1.2) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
