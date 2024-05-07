@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/configcat/cli/pull/22) in [configcat/cli](https://github.com/configcat/cli)
-2. 💪 Opened PR [#22](https://github.com/configcat/cli/pull/22) in [configcat/cli](https://github.com/configcat/cli)
-3. 🚀 Published release [v11.0.3](https://github.com/configcat/swift-sdk/releases/tag/11.0.3) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 🎉 Merged PR [#44](https://github.com/configcat/swift-sdk/pull/44) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 🚀 Published release [3.1.1](https://github.com/configcat/kotlin-sdk/releases/tag/3.1.1) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+1. 🚀 Published release [v2.0.1](https://github.com/configcat/cli/releases/tag/v2.0.1) in [configcat/cli](https://github.com/configcat/cli)
+2. 🎉 Merged PR [#22](https://github.com/configcat/cli/pull/22) in [configcat/cli](https://github.com/configcat/cli)
+3. 💪 Opened PR [#22](https://github.com/configcat/cli/pull/22) in [configcat/cli](https://github.com/configcat/cli)
+4. 🚀 Published release [v11.0.3](https://github.com/configcat/swift-sdk/releases/tag/11.0.3) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 🎉 Merged PR [#44](https://github.com/configcat/swift-sdk/pull/44) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
