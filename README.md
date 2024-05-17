@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v9.2.0](https://github.com/configcat/php-sdk/releases/tag/v9.2.0) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 🎉 Merged PR [#49](https://github.com/configcat/php-sdk/pull/49) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-3. 🗣 Commented on [#49](https://github.com/configcat/php-sdk/pull/49#issuecomment-2107000339) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-4. 🚀 Published release [v2.0.1](https://github.com/configcat/cli/releases/tag/v2.0.1) in [configcat/cli](https://github.com/configcat/cli)
-5. 🎉 Merged PR [#22](https://github.com/configcat/cli/pull/22) in [configcat/cli](https://github.com/configcat/cli)
+1. 🗣 Commented on [#23](https://github.com/configcat/cli/pull/23#issuecomment-2117100837) in [configcat/cli](https://github.com/configcat/cli)
+2. 🚀 Published release [v9.2.0](https://github.com/configcat/php-sdk/releases/tag/v9.2.0) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+3. 🎉 Merged PR [#49](https://github.com/configcat/php-sdk/pull/49) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+4. 🗣 Commented on [#49](https://github.com/configcat/php-sdk/pull/49#issuecomment-2107000339) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+5. 🚀 Published release [v2.0.1](https://github.com/configcat/cli/releases/tag/v2.0.1) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
