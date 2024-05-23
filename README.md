@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/configcat/java-sdk/issues/50#issuecomment-2125245502) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-2. 🎉 Merged PR [#49](https://github.com/configcat/java-sdk/pull/49) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-3. 🗣 Commented on [#49](https://github.com/configcat/java-sdk/pull/49#issuecomment-2125213873) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-4. 💪 Opened PR [#24](https://github.com/configcat/cli/pull/24) in [configcat/cli](https://github.com/configcat/cli)
-5. 🗣 Commented on [#23](https://github.com/configcat/cli/pull/23#issuecomment-2117100837) in [configcat/cli](https://github.com/configcat/cli)
+1. 🎉 Merged PR [#24](https://github.com/configcat/cli/pull/24) in [configcat/cli](https://github.com/configcat/cli)
+2. 🗣 Commented on [#50](https://github.com/configcat/java-sdk/issues/50#issuecomment-2125245502) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+3. 🎉 Merged PR [#49](https://github.com/configcat/java-sdk/pull/49) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+4. 🗣 Commented on [#49](https://github.com/configcat/java-sdk/pull/49#issuecomment-2125213873) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+5. 💪 Opened PR [#24](https://github.com/configcat/cli/pull/24) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
