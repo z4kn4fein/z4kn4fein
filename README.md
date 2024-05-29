@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#444](https://github.com/configcat/docs/pull/444) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v2.1.1](https://github.com/configcat/cli/releases/tag/v2.1.1) in [configcat/cli](https://github.com/configcat/cli)
-3. 🎉 Merged PR [#25](https://github.com/configcat/cli/pull/25) in [configcat/cli](https://github.com/configcat/cli)
-4. 💪 Opened PR [#444](https://github.com/configcat/docs/pull/444) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#25](https://github.com/configcat/cli/pull/25) in [configcat/cli](https://github.com/configcat/cli)
+1. 🗣 Commented on [#165](https://github.com/z4kn4fein/stashbox/issues/165#issuecomment-2137612607) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#444](https://github.com/configcat/docs/pull/444) in [configcat/docs](https://github.com/configcat/docs)
+3. 🚀 Published release [v2.1.1](https://github.com/configcat/cli/releases/tag/v2.1.1) in [configcat/cli](https://github.com/configcat/cli)
+4. 🎉 Merged PR [#25](https://github.com/configcat/cli/pull/25) in [configcat/cli](https://github.com/configcat/cli)
+5. 💪 Opened PR [#444](https://github.com/configcat/docs/pull/444) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
