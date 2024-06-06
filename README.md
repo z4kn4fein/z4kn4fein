@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/configcat/cli/pull/26) in [configcat/cli](https://github.com/configcat/cli)
-2. 🗣 Commented on [#14](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/14#issuecomment-2151055573) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-3. 🗣 Commented on [#23](https://github.com/configcat/cli/pull/23#issuecomment-2146981810) in [configcat/cli](https://github.com/configcat/cli)
-4. 🎉 Merged PR [#8](https://github.com/configcat/flutter-preferences-cache/pull/8) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-5. 🎉 Merged PR [#13](https://github.com/z4kn4fein/php-semver/pull/13) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+1. 🎉 Merged PR [#45](https://github.com/configcat/swift-sdk/pull/45) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 💪 Opened PR [#45](https://github.com/configcat/swift-sdk/pull/45) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 💪 Opened PR [#26](https://github.com/configcat/cli/pull/26) in [configcat/cli](https://github.com/configcat/cli)
+4. 🗣 Commented on [#14](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/14#issuecomment-2151055573) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+5. 🗣 Commented on [#23](https://github.com/configcat/cli/pull/23#issuecomment-2146981810) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
