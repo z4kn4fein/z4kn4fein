@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#454](https://github.com/configcat/docs/pull/454) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#454](https://github.com/configcat/docs/pull/454) in [configcat/docs](https://github.com/configcat/docs)
-3. 🎉 Merged PR [#452](https://github.com/configcat/docs/pull/452) in [configcat/docs](https://github.com/configcat/docs)
-4. 🗣 Commented on [#23](https://github.com/configcat/cli/pull/23#issuecomment-2175691198) in [configcat/cli](https://github.com/configcat/cli)
-5. 🚀 Published release [v2.2.1](https://github.com/configcat/cli/releases/tag/v2.2.1) in [configcat/cli](https://github.com/configcat/cli)
+1. 🚀 Published release [v2.2.2](https://github.com/configcat/cli/releases/tag/v2.2.2) in [configcat/cli](https://github.com/configcat/cli)
+2. 🎉 Merged PR [#454](https://github.com/configcat/docs/pull/454) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#454](https://github.com/configcat/docs/pull/454) in [configcat/docs](https://github.com/configcat/docs)
+4. 🎉 Merged PR [#452](https://github.com/configcat/docs/pull/452) in [configcat/docs](https://github.com/configcat/docs)
+5. 🗣 Commented on [#23](https://github.com/configcat/cli/pull/23#issuecomment-2175691198) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
