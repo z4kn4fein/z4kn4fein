@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/configcat/dart-sdk/pull/32) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-2. 🎉 Merged PR [#36](https://github.com/configcat/kotlin-sdk/pull/36) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-3. 🎉 Merged PR [#23](https://github.com/configcat/configcat-proxy/pull/23) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#28](https://github.com/configcat/cli/pull/28) in [configcat/cli](https://github.com/configcat/cli)
-5. 🗣 Commented on [#23](https://github.com/configcat/cli/pull/23#issuecomment-2180948707) in [configcat/cli](https://github.com/configcat/cli)
+1. 💪 Opened PR [#457](https://github.com/configcat/docs/pull/457) in [configcat/docs](https://github.com/configcat/docs)
+2. 🎉 Merged PR [#32](https://github.com/configcat/dart-sdk/pull/32) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🎉 Merged PR [#36](https://github.com/configcat/kotlin-sdk/pull/36) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🎉 Merged PR [#23](https://github.com/configcat/configcat-proxy/pull/23) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#28](https://github.com/configcat/cli/pull/28) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
