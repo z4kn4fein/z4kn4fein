@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.5.1](https://github.com/configcat/scan-repository/releases/tag/v2.5.1) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
-2. 💪 Opened PR [#2](https://github.com/configcat/rust-sdk/pull/2) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 🎉 Merged PR [#167](https://github.com/z4kn4fein/stashbox/pull/167) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🎉 Merged PR [#168](https://github.com/z4kn4fein/stashbox/pull/168) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🎉 Merged PR [#457](https://github.com/configcat/docs/pull/457) in [configcat/docs](https://github.com/configcat/docs)
+1. 🚀 Published release [v0.1.1](https://github.com/configcat/rust-sdk/releases/tag/v0.1.1) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+2. 🚀 Published release [v0.1.1](https://github.com/configcat/rust-sdk/releases/tag/v0.1.1) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 🎉 Merged PR [#2](https://github.com/configcat/rust-sdk/pull/2) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+4. 🚀 Published release [v2.5.1](https://github.com/configcat/scan-repository/releases/tag/v2.5.1) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
+5. 💪 Opened PR [#2](https://github.com/configcat/rust-sdk/pull/2) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
