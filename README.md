@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#167](https://github.com/z4kn4fein/stashbox/pull/167) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#168](https://github.com/z4kn4fein/stashbox/pull/168) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#457](https://github.com/configcat/docs/pull/457) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#457](https://github.com/configcat/docs/pull/457) in [configcat/docs](https://github.com/configcat/docs)
-5. 🎉 Merged PR [#32](https://github.com/configcat/dart-sdk/pull/32) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 🚀 Published release [v2.5.1](https://github.com/configcat/scan-repository/releases/tag/v2.5.1) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
+2. 💪 Opened PR [#2](https://github.com/configcat/rust-sdk/pull/2) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 🎉 Merged PR [#167](https://github.com/z4kn4fein/stashbox/pull/167) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🎉 Merged PR [#168](https://github.com/z4kn4fein/stashbox/pull/168) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🎉 Merged PR [#457](https://github.com/configcat/docs/pull/457) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
