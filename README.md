@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/z4kn4fein/php-semver/pull/14) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-2. 🎉 Merged PR [#48](https://github.com/z4kn4fein/kotlin-semver/pull/48) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-3. 🚀 Published release [v0.1.1](https://github.com/configcat/rust-sdk/releases/tag/v0.1.1) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 🚀 Published release [v0.1.1](https://github.com/configcat/rust-sdk/releases/tag/v0.1.1) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 🎉 Merged PR [#2](https://github.com/configcat/rust-sdk/pull/2) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🎉 Merged PR [#463](https://github.com/configcat/docs/pull/463) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#463](https://github.com/configcat/docs/pull/463) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#14](https://github.com/z4kn4fein/php-semver/pull/14) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+4. 🎉 Merged PR [#48](https://github.com/z4kn4fein/kotlin-semver/pull/48) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+5. 🚀 Published release [v0.1.1](https://github.com/configcat/rust-sdk/releases/tag/v0.1.1) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
