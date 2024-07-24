@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.3.0](https://github.com/configcat/cli/releases/tag/v2.3.0) in [configcat/cli](https://github.com/configcat/cli)
-2. 🎉 Merged PR [#29](https://github.com/configcat/cli/pull/29) in [configcat/cli](https://github.com/configcat/cli)
-3. 💪 Opened PR [#29](https://github.com/configcat/cli/pull/29) in [configcat/cli](https://github.com/configcat/cli)
-4. 🎉 Merged PR [#464](https://github.com/configcat/docs/pull/464) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#464](https://github.com/configcat/docs/pull/464) in [configcat/docs](https://github.com/configcat/docs)
+1. 🚀 Published release [v2.6.0](https://github.com/configcat/scan-repository/releases/tag/v2.6.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
+2. 🚀 Published release [v2.3.1](https://github.com/configcat/cli/releases/tag/v2.3.1) in [configcat/cli](https://github.com/configcat/cli)
+3. 🚀 Published release [v2.3.0](https://github.com/configcat/cli/releases/tag/v2.3.0) in [configcat/cli](https://github.com/configcat/cli)
+4. 🎉 Merged PR [#29](https://github.com/configcat/cli/pull/29) in [configcat/cli](https://github.com/configcat/cli)
+5. 💪 Opened PR [#29](https://github.com/configcat/cli/pull/29) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
