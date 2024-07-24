@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/configcat/cli/pull/29) in [configcat/cli](https://github.com/configcat/cli)
-2. 🎉 Merged PR [#464](https://github.com/configcat/docs/pull/464) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#464](https://github.com/configcat/docs/pull/464) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#463](https://github.com/configcat/docs/pull/463) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#463](https://github.com/configcat/docs/pull/463) in [configcat/docs](https://github.com/configcat/docs)
+1. 🎉 Merged PR [#29](https://github.com/configcat/cli/pull/29) in [configcat/cli](https://github.com/configcat/cli)
+2. 💪 Opened PR [#29](https://github.com/configcat/cli/pull/29) in [configcat/cli](https://github.com/configcat/cli)
+3. 🎉 Merged PR [#464](https://github.com/configcat/docs/pull/464) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#464](https://github.com/configcat/docs/pull/464) in [configcat/docs](https://github.com/configcat/docs)
+5. 🎉 Merged PR [#463](https://github.com/configcat/docs/pull/463) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
