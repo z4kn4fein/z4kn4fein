@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.3.2](https://github.com/configcat/cli/releases/tag/v2.3.2) in [configcat/cli](https://github.com/configcat/cli)
-2. 🎉 Merged PR [#30](https://github.com/configcat/cli/pull/30) in [configcat/cli](https://github.com/configcat/cli)
-3. 💪 Opened PR [#30](https://github.com/configcat/cli/pull/30) in [configcat/cli](https://github.com/configcat/cli)
-4. 🚀 Published release [v2.6.0](https://github.com/configcat/scan-repository/releases/tag/v2.6.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
-5. 🚀 Published release [v2.3.1](https://github.com/configcat/cli/releases/tag/v2.3.1) in [configcat/cli](https://github.com/configcat/cli)
+1. 🗣 Commented on [#16](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/16#issuecomment-2251735648) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+2. 🚀 Published release [v5.5.4](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.4) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+3. 🚀 Published release [v5.5.3](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.3) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+4. 🚀 Published release [Stashbox v5.15.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.15.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🚀 Published release [v2.3.2](https://github.com/configcat/cli/releases/tag/v2.3.2) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
