@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/configcat/rust-sdk/pull/4) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-2. 💪 Opened PR [#4](https://github.com/configcat/rust-sdk/pull/4) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 🚀 Published release [v2.6.1](https://github.com/configcat/scan-repository/releases/tag/v2.6.1) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
-4. 🗣 Commented on [#16](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/16#issuecomment-2251735648) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🚀 Published release [v5.5.4](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.5.4) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+1. 🗣 Commented on [#3](https://github.com/configcat/rust-sdk/issues/3#issuecomment-2255767352) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+2. 🚀 Published release [v0.1.2](https://github.com/configcat/rust-sdk/releases/tag/v0.1.2) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 🎉 Merged PR [#4](https://github.com/configcat/rust-sdk/pull/4) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+4. 💪 Opened PR [#4](https://github.com/configcat/rust-sdk/pull/4) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+5. 🚀 Published release [v2.6.1](https://github.com/configcat/scan-repository/releases/tag/v2.6.1) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
 <!--END_SECTION:activity-->
