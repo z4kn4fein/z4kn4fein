@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/configcat/kotlin-sdk/pull/37) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 🗣 Commented on [#3](https://github.com/configcat/rust-sdk/issues/3#issuecomment-2255767352) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 🚀 Published release [v0.1.2](https://github.com/configcat/rust-sdk/releases/tag/v0.1.2) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 🎉 Merged PR [#4](https://github.com/configcat/rust-sdk/pull/4) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 💪 Opened PR [#4](https://github.com/configcat/rust-sdk/pull/4) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🎉 Merged PR [#472](https://github.com/configcat/docs/pull/472) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#472](https://github.com/configcat/docs/pull/472) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#37](https://github.com/configcat/kotlin-sdk/pull/37) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🗣 Commented on [#3](https://github.com/configcat/rust-sdk/issues/3#issuecomment-2255767352) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+5. 🚀 Published release [v0.1.2](https://github.com/configcat/rust-sdk/releases/tag/v0.1.2) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
