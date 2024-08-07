@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#247](https://github.com/open-feature/dotnet-sdk-contrib/pull/247) in [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib)
-2. 🎉 Merged PR [#472](https://github.com/configcat/docs/pull/472) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#472](https://github.com/configcat/docs/pull/472) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#37](https://github.com/configcat/kotlin-sdk/pull/37) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🗣 Commented on [#3](https://github.com/configcat/rust-sdk/issues/3#issuecomment-2255767352) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 💪 Opened PR [#548](https://github.com/open-feature/go-sdk-contrib/pull/548) in [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib)
+2. 💪 Opened PR [#1033](https://github.com/open-feature/js-sdk-contrib/pull/1033) in [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib)
+3. 💪 Opened PR [#247](https://github.com/open-feature/dotnet-sdk-contrib/pull/247) in [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib)
+4. 🎉 Merged PR [#472](https://github.com/configcat/docs/pull/472) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#472](https://github.com/configcat/docs/pull/472) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
