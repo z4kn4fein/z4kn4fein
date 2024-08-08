@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#548](https://github.com/open-feature/go-sdk-contrib/pull/548) in [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib)
-2. 💪 Opened PR [#1033](https://github.com/open-feature/js-sdk-contrib/pull/1033) in [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib)
-3. 💪 Opened PR [#247](https://github.com/open-feature/dotnet-sdk-contrib/pull/247) in [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib)
-4. 🎉 Merged PR [#472](https://github.com/configcat/docs/pull/472) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#472](https://github.com/configcat/docs/pull/472) in [configcat/docs](https://github.com/configcat/docs)
+1. 💪 Opened PR [#72](https://github.com/configcat/go-sdk/pull/72) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+2. 💪 Opened PR [#24](https://github.com/configcat/configcat-proxy/pull/24) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 💪 Opened PR [#548](https://github.com/open-feature/go-sdk-contrib/pull/548) in [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib)
+4. 💪 Opened PR [#1033](https://github.com/open-feature/js-sdk-contrib/pull/1033) in [open-feature/js-sdk-contrib](https://github.com/open-feature/js-sdk-contrib)
+5. 💪 Opened PR [#247](https://github.com/open-feature/dotnet-sdk-contrib/pull/247) in [open-feature/dotnet-sdk-contrib](https://github.com/open-feature/dotnet-sdk-contrib)
 <!--END_SECTION:activity-->
