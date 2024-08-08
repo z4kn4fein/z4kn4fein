@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/configcat/configcat-proxy/releases/tag/v1.0.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🎉 Merged PR [#66](https://github.com/configcat/python-sdk/pull/66) in [configcat/python-sdk](https://github.com/configcat/python-sdk)
-3. 🚀 Published release [v1.0.1](https://github.com/configcat/configcat-proxy/releases/tag/v1.0.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#24](https://github.com/configcat/configcat-proxy/pull/24) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🎉 Merged PR [#473](https://github.com/configcat/docs/pull/473) in [configcat/docs](https://github.com/configcat/docs)
+1. 🚀 Published release [v0.1.1](https://github.com/configcat/openfeature-rust/releases/tag/v0.1.1) in [configcat/openfeature-rust](https://github.com/configcat/openfeature-rust)
+2. 🚀 Published release [v1.0.0](https://github.com/configcat/openfeature-python/releases/tag/v1.0.0) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
+3. 🚀 Published release [v0.1.0](https://github.com/configcat/openfeature-rust/releases/tag/v0.1.0) in [configcat/openfeature-rust](https://github.com/configcat/openfeature-rust)
+4. 🚀 Published release [v1.0.0](https://github.com/configcat/openfeature-php/releases/tag/v1.0.0) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
+5. 🚀 Published release [v1.0.1](https://github.com/configcat/configcat-proxy/releases/tag/v1.0.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
