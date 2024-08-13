@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#390](https://github.com/open-feature/community/pull/390#issuecomment-2277462655) in [open-feature/community](https://github.com/open-feature/community)
-2. 🚀 Published release [v0.1.1](https://github.com/configcat/openfeature-rust/releases/tag/v0.1.1) in [configcat/openfeature-rust](https://github.com/configcat/openfeature-rust)
-3. 🚀 Published release [v1.0.0](https://github.com/configcat/openfeature-python/releases/tag/v1.0.0) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
-4. 🚀 Published release [v0.1.0](https://github.com/configcat/openfeature-rust/releases/tag/v0.1.0) in [configcat/openfeature-rust](https://github.com/configcat/openfeature-rust)
-5. 🚀 Published release [v1.0.0](https://github.com/configcat/openfeature-php/releases/tag/v1.0.0) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
+1. 💪 Opened PR [#633](https://github.com/open-feature/openfeature.dev/pull/633) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
+2. 🗣 Commented on [#390](https://github.com/open-feature/community/pull/390#issuecomment-2277462655) in [open-feature/community](https://github.com/open-feature/community)
+3. 🚀 Published release [v0.1.1](https://github.com/configcat/openfeature-rust/releases/tag/v0.1.1) in [configcat/openfeature-rust](https://github.com/configcat/openfeature-rust)
+4. 🚀 Published release [v1.0.0](https://github.com/configcat/openfeature-python/releases/tag/v1.0.0) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
+5. 🚀 Published release [v0.1.0](https://github.com/configcat/openfeature-rust/releases/tag/v0.1.0) in [configcat/openfeature-rust](https://github.com/configcat/openfeature-rust)
 <!--END_SECTION:activity-->
