@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Stashbox v5.16.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.16.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 💪 Opened PR [#633](https://github.com/open-feature/openfeature.dev/pull/633) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
-3. 🗣 Commented on [#390](https://github.com/open-feature/community/pull/390#issuecomment-2277462655) in [open-feature/community](https://github.com/open-feature/community)
-4. 🚀 Published release [v0.1.1](https://github.com/configcat/openfeature-rust/releases/tag/v0.1.1) in [configcat/openfeature-rust](https://github.com/configcat/openfeature-rust)
-5. 🚀 Published release [v1.0.0](https://github.com/configcat/openfeature-python/releases/tag/v1.0.0) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
+1. 🗣 Commented on [#165](https://github.com/z4kn4fein/stashbox/issues/165#issuecomment-2302124190) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🗣 Commented on [#15](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/15#issuecomment-2302120618) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+3. 🗣 Commented on [#17](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/17#issuecomment-2302117919) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+4. 🚀 Published release [v5.6.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.6.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+5. 🚀 Published release [Stashbox v5.16.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.16.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
