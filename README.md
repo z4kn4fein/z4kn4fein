@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40589](https://github.com/microsoft/vcpkg/pull/40589) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-2. 🚀 Published release [v0.4.0](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.4.0) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-3. 💪 Opened PR [#38](https://github.com/kelteseth/arewemodulesyet/pull/38) in [kelteseth/arewemodulesyet](https://github.com/kelteseth/arewemodulesyet)
-4. 🗣 Commented on [#7](https://github.com/z4kn4fein/cpp-semver/issues/7#issuecomment-2302532026) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-5. 🚀 Published release [v0.4.0](https://github.com/z4kn4fein/cpp-semver/releases/tag/v0.4.0) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+1. 🗣 Commented on [#31](https://github.com/configcat/cli/issues/31#issuecomment-2305397944) in [configcat/cli](https://github.com/configcat/cli)
+2. 🚀 Published release [v2.3.3](https://github.com/configcat/cli/releases/tag/v2.3.3) in [configcat/cli](https://github.com/configcat/cli)
+3. 🔓 Reopened issue [#31](https://github.com/configcat/cli/issues/31) in [configcat/cli](https://github.com/configcat/cli)
+4. 🔒 Closed issue [#31](https://github.com/configcat/cli/issues/31) in [configcat/cli](https://github.com/configcat/cli)
+5. 🗣 Commented on [#31](https://github.com/configcat/cli/issues/31#issuecomment-2305259496) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
