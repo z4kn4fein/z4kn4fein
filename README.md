@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#483](https://github.com/configcat/docs/pull/483) in [configcat/docs](https://github.com/configcat/docs)
-2. 🗣 Commented on [#31](https://github.com/configcat/cli/issues/31#issuecomment-2305397944) in [configcat/cli](https://github.com/configcat/cli)
-3. 🚀 Published release [v2.3.3](https://github.com/configcat/cli/releases/tag/v2.3.3) in [configcat/cli](https://github.com/configcat/cli)
-4. 🔓 Reopened issue [#31](https://github.com/configcat/cli/issues/31) in [configcat/cli](https://github.com/configcat/cli)
-5. 🔒 Closed issue [#31](https://github.com/configcat/cli/issues/31) in [configcat/cli](https://github.com/configcat/cli)
+1. 🎉 Merged PR [#483](https://github.com/configcat/docs/pull/483) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#483](https://github.com/configcat/docs/pull/483) in [configcat/docs](https://github.com/configcat/docs)
+3. 🗣 Commented on [#31](https://github.com/configcat/cli/issues/31#issuecomment-2305397944) in [configcat/cli](https://github.com/configcat/cli)
+4. 🚀 Published release [v2.3.3](https://github.com/configcat/cli/releases/tag/v2.3.3) in [configcat/cli](https://github.com/configcat/cli)
+5. 🔓 Reopened issue [#31](https://github.com/configcat/cli/issues/31) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
