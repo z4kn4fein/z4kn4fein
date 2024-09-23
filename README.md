@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/configcat/.github/pull/8) in [configcat/.github](https://github.com/configcat/.github)
-2. 🎉 Merged PR [#485](https://github.com/configcat/docs/pull/485) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#485](https://github.com/configcat/docs/pull/485) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#8](https://github.com/configcat/.github/pull/8) in [configcat/.github](https://github.com/configcat/.github)
-5. 🎉 Merged PR [#484](https://github.com/configcat/docs/pull/484) in [configcat/docs](https://github.com/configcat/docs)
+1. 🎉 Merged PR [#176](https://github.com/z4kn4fein/stashbox/pull/176) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#171](https://github.com/z4kn4fein/stashbox/pull/171) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#170](https://github.com/z4kn4fein/stashbox/pull/170) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🎉 Merged PR [#174](https://github.com/z4kn4fein/stashbox/pull/174) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🎉 Merged PR [#175](https://github.com/z4kn4fein/stashbox/pull/175) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
