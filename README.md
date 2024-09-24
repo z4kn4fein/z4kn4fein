@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#490](https://github.com/configcat/docs/pull/490) in [configcat/docs](https://github.com/configcat/docs)
-2. 🔒 Closed issue [#7](https://github.com/z4kn4fein/cpp-semver/issues/7) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-3. 🎉 Merged PR [#15](https://github.com/z4kn4fein/php-semver/pull/15) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-4. 🎉 Merged PR [#49](https://github.com/z4kn4fein/kotlin-semver/pull/49) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-5. 🎉 Merged PR [#176](https://github.com/z4kn4fein/stashbox/pull/176) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🎉 Merged PR [#490](https://github.com/configcat/docs/pull/490) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#490](https://github.com/configcat/docs/pull/490) in [configcat/docs](https://github.com/configcat/docs)
+3. 🔒 Closed issue [#7](https://github.com/z4kn4fein/cpp-semver/issues/7) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+4. 🎉 Merged PR [#15](https://github.com/z4kn4fein/php-semver/pull/15) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+5. 🎉 Merged PR [#49](https://github.com/z4kn4fein/kotlin-semver/pull/49) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
 <!--END_SECTION:activity-->
