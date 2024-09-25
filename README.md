@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/configcat/swift-sdk/pull/46) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-2. 🗣 Commented on [#46](https://github.com/configcat/swift-sdk/pull/46#issuecomment-2373644235) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🎉 Merged PR [#490](https://github.com/configcat/docs/pull/490) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#490](https://github.com/configcat/docs/pull/490) in [configcat/docs](https://github.com/configcat/docs)
-5. 🔒 Closed issue [#7](https://github.com/z4kn4fein/cpp-semver/issues/7) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+1. 🚀 Published release [v11.2.0](https://github.com/configcat/swift-sdk/releases/tag/11.2.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🚀 Published release [v11.2.0](https://github.com/configcat/swift-sdk/releases/tag/11.2.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 🎉 Merged PR [#46](https://github.com/configcat/swift-sdk/pull/46) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. 🗣 Commented on [#46](https://github.com/configcat/swift-sdk/pull/46#issuecomment-2373644235) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 🎉 Merged PR [#490](https://github.com/configcat/docs/pull/490) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
