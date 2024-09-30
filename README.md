@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#493](https://github.com/configcat/docs/pull/493) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v11.2.0](https://github.com/configcat/swift-sdk/releases/tag/11.2.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🚀 Published release [v11.2.0](https://github.com/configcat/swift-sdk/releases/tag/11.2.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 🎉 Merged PR [#46](https://github.com/configcat/swift-sdk/pull/46) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 🗣 Commented on [#46](https://github.com/configcat/swift-sdk/pull/46#issuecomment-2373644235) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 🎉 Merged PR [#493](https://github.com/configcat/docs/pull/493) in [configcat/docs](https://github.com/configcat/docs)
+2. 🎉 Merged PR [#33](https://github.com/configcat/dart-sdk/pull/33) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🎉 Merged PR [#50](https://github.com/z4kn4fein/kotlin-semver/pull/50) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+4. 💪 Opened PR [#990](https://github.com/open-feature/java-sdk-contrib/pull/990) in [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib)
+5. 💪 Opened PR [#493](https://github.com/configcat/docs/pull/493) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
