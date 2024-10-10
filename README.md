@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/z4kn4fein/stashbox-mocking/issues/3#issuecomment-2388375803) in [z4kn4fein/stashbox-mocking](https://github.com/z4kn4fein/stashbox-mocking)
-2. 🎉 Merged PR [#493](https://github.com/configcat/docs/pull/493) in [configcat/docs](https://github.com/configcat/docs)
-3. 🎉 Merged PR [#33](https://github.com/configcat/dart-sdk/pull/33) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-4. 🎉 Merged PR [#50](https://github.com/z4kn4fein/kotlin-semver/pull/50) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-5. 💪 Opened PR [#990](https://github.com/open-feature/java-sdk-contrib/pull/990) in [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib)
+1. 🎉 Merged PR [#32](https://github.com/configcat/cli/pull/32) in [configcat/cli](https://github.com/configcat/cli)
+2. 🗣 Commented on [#3](https://github.com/z4kn4fein/stashbox-mocking/issues/3#issuecomment-2388375803) in [z4kn4fein/stashbox-mocking](https://github.com/z4kn4fein/stashbox-mocking)
+3. 🎉 Merged PR [#493](https://github.com/configcat/docs/pull/493) in [configcat/docs](https://github.com/configcat/docs)
+4. 🎉 Merged PR [#33](https://github.com/configcat/dart-sdk/pull/33) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+5. 🎉 Merged PR [#50](https://github.com/z4kn4fein/kotlin-semver/pull/50) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
 <!--END_SECTION:activity-->
