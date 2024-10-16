@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/z4kn4fein/php-semver/pull/16) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-2. 🎉 Merged PR [#32](https://github.com/configcat/cli/pull/32) in [configcat/cli](https://github.com/configcat/cli)
-3. 🗣 Commented on [#3](https://github.com/z4kn4fein/stashbox-mocking/issues/3#issuecomment-2388375803) in [z4kn4fein/stashbox-mocking](https://github.com/z4kn4fein/stashbox-mocking)
-4. 🎉 Merged PR [#493](https://github.com/configcat/docs/pull/493) in [configcat/docs](https://github.com/configcat/docs)
-5. 🎉 Merged PR [#33](https://github.com/configcat/dart-sdk/pull/33) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 🎉 Merged PR [#33](https://github.com/configcat/cli/pull/33) in [configcat/cli](https://github.com/configcat/cli)
+2. 💪 Opened PR [#33](https://github.com/configcat/cli/pull/33) in [configcat/cli](https://github.com/configcat/cli)
+3. 🎉 Merged PR [#16](https://github.com/z4kn4fein/php-semver/pull/16) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+4. 🎉 Merged PR [#32](https://github.com/configcat/cli/pull/32) in [configcat/cli](https://github.com/configcat/cli)
+5. 🗣 Commented on [#3](https://github.com/z4kn4fein/stashbox-mocking/issues/3#issuecomment-2388375803) in [z4kn4fein/stashbox-mocking](https://github.com/z4kn4fein/stashbox-mocking)
 <!--END_SECTION:activity-->
