@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/configcat/kotlin-sdk/issues/40#issuecomment-2437511313) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 🎉 Merged PR [#9](https://github.com/configcat/flutter-preferences-cache/pull/9) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-3. 🗣 Commented on [#177](https://github.com/z4kn4fein/stashbox/issues/177#issuecomment-2424792214) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🎉 Merged PR [#178](https://github.com/z4kn4fein/stashbox/pull/178) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🎉 Merged PR [#33](https://github.com/configcat/cli/pull/33) in [configcat/cli](https://github.com/configcat/cli)
+1. 🎉 Merged PR [#179](https://github.com/z4kn4fein/stashbox/pull/179) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🗣 Commented on [#40](https://github.com/configcat/kotlin-sdk/issues/40#issuecomment-2437511313) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+3. 🎉 Merged PR [#9](https://github.com/configcat/flutter-preferences-cache/pull/9) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+4. 🗣 Commented on [#177](https://github.com/z4kn4fein/stashbox/issues/177#issuecomment-2424792214) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🎉 Merged PR [#178](https://github.com/z4kn4fein/stashbox/pull/178) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
