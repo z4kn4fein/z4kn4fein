@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#500](https://github.com/configcat/docs/pull/500) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#500](https://github.com/configcat/docs/pull/500) in [configcat/docs](https://github.com/configcat/docs)
-3. 🎉 Merged PR [#179](https://github.com/z4kn4fein/stashbox/pull/179) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#40](https://github.com/configcat/kotlin-sdk/issues/40#issuecomment-2437511313) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🎉 Merged PR [#9](https://github.com/configcat/flutter-preferences-cache/pull/9) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+1. 💪 Opened PR [#379](https://github.com/open-feature/playground/pull/379) in [open-feature/playground](https://github.com/open-feature/playground)
+2. 💪 Opened PR [#819](https://github.com/open-feature/openfeature.dev/pull/819) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
+3. 🎉 Merged PR [#500](https://github.com/configcat/docs/pull/500) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#500](https://github.com/configcat/docs/pull/500) in [configcat/docs](https://github.com/configcat/docs)
+5. 🎉 Merged PR [#179](https://github.com/z4kn4fein/stashbox/pull/179) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
