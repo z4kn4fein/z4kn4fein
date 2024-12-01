@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/z4kn4fein/kotlin-semver/pull/51) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-2. 🎉 Merged PR [#180](https://github.com/z4kn4fein/stashbox/pull/180) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#17](https://github.com/z4kn4fein/php-semver/pull/17) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-4. 💪 Opened PR [#379](https://github.com/open-feature/playground/pull/379) in [open-feature/playground](https://github.com/open-feature/playground)
-5. 💪 Opened PR [#819](https://github.com/open-feature/openfeature.dev/pull/819) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
+1. 🔒 Closed issue [#165](https://github.com/z4kn4fein/stashbox/issues/165) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#51](https://github.com/z4kn4fein/kotlin-semver/pull/51) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+3. 🎉 Merged PR [#180](https://github.com/z4kn4fein/stashbox/pull/180) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🎉 Merged PR [#17](https://github.com/z4kn4fein/php-semver/pull/17) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+5. 💪 Opened PR [#379](https://github.com/open-feature/playground/pull/379) in [open-feature/playground](https://github.com/open-feature/playground)
 <!--END_SECTION:activity-->
