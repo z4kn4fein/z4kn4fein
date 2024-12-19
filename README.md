@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/z4kn4fein/stashbox/pull/181) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#512](https://github.com/configcat/docs/pull/512) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#512](https://github.com/configcat/docs/pull/512) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#19](https://github.com/z4kn4fein/php-semver/pull/19) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-5. 🎉 Merged PR [#53](https://github.com/z4kn4fein/kotlin-semver/pull/53) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+1. 🗣 Commented on [#51](https://github.com/configcat/kotlin-sdk/issues/51#issuecomment-2555191797) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+2. 🎉 Merged PR [#181](https://github.com/z4kn4fein/stashbox/pull/181) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#512](https://github.com/configcat/docs/pull/512) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#512](https://github.com/configcat/docs/pull/512) in [configcat/docs](https://github.com/configcat/docs)
+5. 🎉 Merged PR [#19](https://github.com/z4kn4fein/php-semver/pull/19) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
 <!--END_SECTION:activity-->
