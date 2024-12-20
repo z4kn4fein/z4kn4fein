@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/z4kn4fein/stashbox/issues/182#issuecomment-2555777716) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🗣 Commented on [#172](https://github.com/z4kn4fein/stashbox/issues/172#issuecomment-2555735945) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#51](https://github.com/configcat/kotlin-sdk/issues/51#issuecomment-2555191797) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-4. 🎉 Merged PR [#181](https://github.com/z4kn4fein/stashbox/pull/181) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🎉 Merged PR [#512](https://github.com/configcat/docs/pull/512) in [configcat/docs](https://github.com/configcat/docs)
+1. 🚀 Published release [v5.7.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.7.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+2. 🗣 Commented on [#182](https://github.com/z4kn4fein/stashbox/issues/182#issuecomment-2557236579) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🚀 Published release [Stashbox v5.17.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.17.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🗣 Commented on [#182](https://github.com/z4kn4fein/stashbox/issues/182#issuecomment-2555777716) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#172](https://github.com/z4kn4fein/stashbox/issues/172#issuecomment-2555735945) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
