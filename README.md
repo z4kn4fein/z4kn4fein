@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/configcat/kotlin-sdk/issues/51#issuecomment-2582229663) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 🚀 Published release [v4.1.1](https://github.com/configcat/kotlin-sdk/releases/tag/4.1.1) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-3. 🎉 Merged PR [#52](https://github.com/configcat/kotlin-sdk/pull/52) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-4. 💪 Opened PR [#52](https://github.com/configcat/kotlin-sdk/pull/52) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🚀 Published release [v5.7.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.7.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+1. 💪 Opened PR [#516](https://github.com/configcat/docs/pull/516) in [configcat/docs](https://github.com/configcat/docs)
+2. 🗣 Commented on [#51](https://github.com/configcat/kotlin-sdk/issues/51#issuecomment-2582229663) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+3. 🚀 Published release [v4.1.1](https://github.com/configcat/kotlin-sdk/releases/tag/4.1.1) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🎉 Merged PR [#52](https://github.com/configcat/kotlin-sdk/pull/52) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 💪 Opened PR [#52](https://github.com/configcat/kotlin-sdk/pull/52) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
 <!--END_SECTION:activity-->
