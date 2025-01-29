@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/configcat/configcat-proxy/issues/25#issuecomment-2616165617) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🎉 Merged PR [#516](https://github.com/configcat/docs/pull/516) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#516](https://github.com/configcat/docs/pull/516) in [configcat/docs](https://github.com/configcat/docs)
-4. 🗣 Commented on [#51](https://github.com/configcat/kotlin-sdk/issues/51#issuecomment-2582229663) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🚀 Published release [v4.1.1](https://github.com/configcat/kotlin-sdk/releases/tag/4.1.1) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+1. 💪 Opened PR [#26](https://github.com/configcat/configcat-proxy/pull/26) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🗣 Commented on [#25](https://github.com/configcat/configcat-proxy/issues/25#issuecomment-2616165617) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#516](https://github.com/configcat/docs/pull/516) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#516](https://github.com/configcat/docs/pull/516) in [configcat/docs](https://github.com/configcat/docs)
+5. 🗣 Commented on [#51](https://github.com/configcat/kotlin-sdk/issues/51#issuecomment-2582229663) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
 <!--END_SECTION:activity-->
