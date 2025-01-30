@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/configcat/configcat-proxy/pull/28) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 💪 Opened PR [#28](https://github.com/configcat/configcat-proxy/pull/28) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🗣 Commented on [#25](https://github.com/configcat/configcat-proxy/issues/25#issuecomment-2620337203) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🚀 Published release [v1.1.0](https://github.com/configcat/configcat-proxy/releases/tag/v1.1.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🎉 Merged PR [#27](https://github.com/configcat/configcat-proxy/pull/27) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🚀 Published release [v1.1.1](https://github.com/configcat/configcat-proxy/releases/tag/v1.1.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#28](https://github.com/configcat/configcat-proxy/pull/28) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 💪 Opened PR [#28](https://github.com/configcat/configcat-proxy/pull/28) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🗣 Commented on [#25](https://github.com/configcat/configcat-proxy/issues/25#issuecomment-2620337203) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🚀 Published release [v1.1.0](https://github.com/configcat/configcat-proxy/releases/tag/v1.1.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
