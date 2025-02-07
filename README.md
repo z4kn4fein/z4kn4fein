@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#51](https://github.com/configcat/kotlin-sdk/issues/51) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 🚀 Published release [v1.1.1](https://github.com/configcat/configcat-proxy/releases/tag/v1.1.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🎉 Merged PR [#28](https://github.com/configcat/configcat-proxy/pull/28) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 💪 Opened PR [#28](https://github.com/configcat/configcat-proxy/pull/28) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🗣 Commented on [#25](https://github.com/configcat/configcat-proxy/issues/25#issuecomment-2620337203) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🎉 Merged PR [#518](https://github.com/configcat/docs/pull/518) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#518](https://github.com/configcat/docs/pull/518) in [configcat/docs](https://github.com/configcat/docs)
+3. 🗣 Commented on [#458](https://github.com/open-feature/go-sdk-contrib/pull/458#issuecomment-2642439907) in [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib)
+4. 🔒 Closed issue [#51](https://github.com/configcat/kotlin-sdk/issues/51) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 🚀 Published release [v1.1.1](https://github.com/configcat/configcat-proxy/releases/tag/v1.1.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
