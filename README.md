@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/z4kn4fein/stashbox/issues/183#issuecomment-2665388397) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🚀 Published release [Stashbox v5.17.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.17.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🎉 Merged PR [#185](https://github.com/z4kn4fein/stashbox/pull/185) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#183](https://github.com/z4kn4fein/stashbox/issues/183#issuecomment-2665124388) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🔒 Closed issue [#183](https://github.com/z4kn4fein/stashbox/issues/183) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 💪 Opened PR [#61](https://github.com/configcat/android-sdk/pull/61) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+2. 🗣 Commented on [#183](https://github.com/z4kn4fein/stashbox/issues/183#issuecomment-2665388397) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🚀 Published release [Stashbox v5.17.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.17.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🎉 Merged PR [#185](https://github.com/z4kn4fein/stashbox/pull/185) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#183](https://github.com/z4kn4fein/stashbox/issues/183#issuecomment-2665124388) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
