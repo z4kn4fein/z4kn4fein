@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/configcat/php-sdk/pull/50) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 💪 Opened PR [#50](https://github.com/configcat/php-sdk/pull/50) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-3. 🚀 Published release [v10.3.1](https://github.com/configcat/android-sdk/releases/tag/v10.3.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-4. 🎉 Merged PR [#61](https://github.com/configcat/android-sdk/pull/61) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-5. 💪 Opened PR [#61](https://github.com/configcat/android-sdk/pull/61) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+1. 🎉 Merged PR [#54](https://github.com/z4kn4fein/kotlin-semver/pull/54) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+2. 🎉 Merged PR [#50](https://github.com/configcat/php-sdk/pull/50) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+3. 💪 Opened PR [#50](https://github.com/configcat/php-sdk/pull/50) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+4. 🚀 Published release [v10.3.1](https://github.com/configcat/android-sdk/releases/tag/v10.3.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+5. 🎉 Merged PR [#61](https://github.com/configcat/android-sdk/pull/61) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
 <!--END_SECTION:activity-->
