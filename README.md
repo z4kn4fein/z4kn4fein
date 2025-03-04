@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/configcat/rust-sdk/pull/5) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-2. 🎉 Merged PR [#29](https://github.com/configcat/configcat-proxy/pull/29) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🗣 Commented on [#35](https://github.com/configcat/cli/issues/35#issuecomment-2694267378) in [configcat/cli](https://github.com/configcat/cli)
-4. 💪 Opened PR [#29](https://github.com/configcat/configcat-proxy/pull/29) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 💪 Opened PR [#5](https://github.com/configcat/rust-sdk/pull/5) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🚀 Published release [v1.1.2](https://github.com/configcat/configcat-proxy/releases/tag/v1.1.2) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#5](https://github.com/configcat/rust-sdk/pull/5) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 🎉 Merged PR [#29](https://github.com/configcat/configcat-proxy/pull/29) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🗣 Commented on [#35](https://github.com/configcat/cli/issues/35#issuecomment-2694267378) in [configcat/cli](https://github.com/configcat/cli)
+5. 💪 Opened PR [#29](https://github.com/configcat/configcat-proxy/pull/29) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
