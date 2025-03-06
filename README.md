@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#521](https://github.com/configcat/docs/pull/521) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#1](https://github.com/configcat/scan-repository-orb/pull/1) in [configcat/scan-repository-orb](https://github.com/configcat/scan-repository-orb)
-3. 🚀 Published release [v2.7.0](https://github.com/configcat/scan-repository/releases/tag/v2.7.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
-4. 🎉 Merged PR [#3](https://github.com/configcat/scan-repository/pull/3) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
-5. 💪 Opened PR [#3](https://github.com/configcat/scan-repository/pull/3) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
+1. 💪 Opened PR [#522](https://github.com/configcat/docs/pull/522) in [configcat/docs](https://github.com/configcat/docs)
+2. 🎉 Merged PR [#521](https://github.com/configcat/docs/pull/521) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#521](https://github.com/configcat/docs/pull/521) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#1](https://github.com/configcat/scan-repository-orb/pull/1) in [configcat/scan-repository-orb](https://github.com/configcat/scan-repository-orb)
+5. 🚀 Published release [v2.7.0](https://github.com/configcat/scan-repository/releases/tag/v2.7.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
 <!--END_SECTION:activity-->
