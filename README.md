@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/z4kn4fein/php-semver/pull/20) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-2. 🎉 Merged PR [#62](https://github.com/configcat/android-sdk/pull/62) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-3. 🎉 Merged PR [#61](https://github.com/configcat/java-sdk/pull/61) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
-4. 💪 Opened PR [#62](https://github.com/configcat/android-sdk/pull/62) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-5. 💪 Opened PR [#61](https://github.com/configcat/java-sdk/pull/61) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+1. 🎉 Merged PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#20](https://github.com/z4kn4fein/php-semver/pull/20) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+4. 🎉 Merged PR [#62](https://github.com/configcat/android-sdk/pull/62) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+5. 🎉 Merged PR [#61](https://github.com/configcat/java-sdk/pull/61) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
 <!--END_SECTION:activity-->
