@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
-3. 🎉 Merged PR [#20](https://github.com/z4kn4fein/php-semver/pull/20) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
-4. 🎉 Merged PR [#62](https://github.com/configcat/android-sdk/pull/62) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-5. 🎉 Merged PR [#61](https://github.com/configcat/java-sdk/pull/61) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+1. 🔒 Closed issue [#25](https://github.com/configcat/configcat-proxy/issues/25) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🗣 Commented on [#25](https://github.com/configcat/configcat-proxy/issues/25#issuecomment-2725080757) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
+5. 🎉 Merged PR [#20](https://github.com/z4kn4fein/php-semver/pull/20) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
 <!--END_SECTION:activity-->
