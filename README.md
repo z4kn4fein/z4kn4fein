@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/configcat/configcat-proxy/issues/25) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🗣 Commented on [#25](https://github.com/configcat/configcat-proxy/issues/25#issuecomment-2725080757) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🎉 Merged PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
-5. 🎉 Merged PR [#20](https://github.com/z4kn4fein/php-semver/pull/20) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+1. 🗣 Commented on [#35](https://github.com/configcat/cli/issues/35#issuecomment-2733042149) in [configcat/cli](https://github.com/configcat/cli)
+2. 🔒 Closed issue [#35](https://github.com/configcat/cli/issues/35) in [configcat/cli](https://github.com/configcat/cli)
+3. 🔒 Closed issue [#25](https://github.com/configcat/configcat-proxy/issues/25) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🗣 Commented on [#25](https://github.com/configcat/configcat-proxy/issues/25#issuecomment-2725080757) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#523](https://github.com/configcat/docs/pull/523) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
