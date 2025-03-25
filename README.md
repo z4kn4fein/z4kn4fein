@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/configcat/trello-powerup/pull/68) in [configcat/trello-powerup](https://github.com/configcat/trello-powerup)
-2. 💪 Opened PR [#30](https://github.com/configcat/monday-app/pull/30) in [configcat/monday-app](https://github.com/configcat/monday-app)
-3. 💪 Opened PR [#34](https://github.com/configcat/feature-flag-demo/pull/34) in [configcat/feature-flag-demo](https://github.com/configcat/feature-flag-demo)
-4. 💪 Opened PR [#524](https://github.com/configcat/docs/pull/524) in [configcat/docs](https://github.com/configcat/docs)
-5. 🗣 Commented on [#35](https://github.com/configcat/cli/issues/35#issuecomment-2733042149) in [configcat/cli](https://github.com/configcat/cli)
+1. 💪 Opened PR [#11](https://github.com/configcat/php7-sdk/pull/11) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+2. 💪 Opened PR [#6](https://github.com/configcat/rust-sdk/pull/6) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 💪 Opened PR [#68](https://github.com/configcat/trello-powerup/pull/68) in [configcat/trello-powerup](https://github.com/configcat/trello-powerup)
+4. 💪 Opened PR [#30](https://github.com/configcat/monday-app/pull/30) in [configcat/monday-app](https://github.com/configcat/monday-app)
+5. 💪 Opened PR [#34](https://github.com/configcat/feature-flag-demo/pull/34) in [configcat/feature-flag-demo](https://github.com/configcat/feature-flag-demo)
 <!--END_SECTION:activity-->
