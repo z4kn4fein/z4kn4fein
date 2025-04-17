@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/configcat/configcat-proxy/pull/30) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🎉 Merged PR [#7](https://github.com/configcat/rust-sdk/pull/7) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 💪 Opened PR [#7](https://github.com/configcat/rust-sdk/pull/7) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 🔓 Reopened issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 💪 Opened PR [#11](https://github.com/configcat/php7-sdk/pull/11) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+1. 🗣 Commented on [#63](https://github.com/configcat/android-sdk/issues/63#issuecomment-2812564547) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+2. 🎉 Merged PR [#533](https://github.com/configcat/docs/pull/533) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#533](https://github.com/configcat/docs/pull/533) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#30](https://github.com/configcat/configcat-proxy/pull/30) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#7](https://github.com/configcat/rust-sdk/pull/7) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
