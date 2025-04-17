@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/configcat/android-sdk/issues/63#issuecomment-2812564547) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-2. 🎉 Merged PR [#533](https://github.com/configcat/docs/pull/533) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#533](https://github.com/configcat/docs/pull/533) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#30](https://github.com/configcat/configcat-proxy/pull/30) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🎉 Merged PR [#7](https://github.com/configcat/rust-sdk/pull/7) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🚀 Published release [v10.4.1](https://github.com/configcat/android-sdk/releases/tag/v10.4.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+2. 🎉 Merged PR [#64](https://github.com/configcat/android-sdk/pull/64) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+3. 💪 Opened PR [#64](https://github.com/configcat/android-sdk/pull/64) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+4. 🗣 Commented on [#63](https://github.com/configcat/android-sdk/issues/63#issuecomment-2812564547) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+5. 🎉 Merged PR [#533](https://github.com/configcat/docs/pull/533) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
