@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/configcat/android-sdk/issues/63#issuecomment-2813127884) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-2. 🚀 Published release [v10.4.1](https://github.com/configcat/android-sdk/releases/tag/v10.4.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-3. 🎉 Merged PR [#64](https://github.com/configcat/android-sdk/pull/64) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-4. 💪 Opened PR [#64](https://github.com/configcat/android-sdk/pull/64) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-5. 🗣 Commented on [#63](https://github.com/configcat/android-sdk/issues/63#issuecomment-2812564547) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+1. 🚀 Published release [3.0.0](https://github.com/z4kn4fein/kotlin-semver/releases/tag/3.0.0) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+2. 🗣 Commented on [#63](https://github.com/configcat/android-sdk/issues/63#issuecomment-2813127884) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+3. 🚀 Published release [v10.4.1](https://github.com/configcat/android-sdk/releases/tag/v10.4.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+4. 🎉 Merged PR [#64](https://github.com/configcat/android-sdk/pull/64) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+5. 💪 Opened PR [#64](https://github.com/configcat/android-sdk/pull/64) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
 <!--END_SECTION:activity-->
