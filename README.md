@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/configcat/swift-sdk/pull/48) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-2. 💪 Opened PR [#48](https://github.com/configcat/swift-sdk/pull/48) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🚀 Published release [3.0.0](https://github.com/z4kn4fein/kotlin-semver/releases/tag/3.0.0) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-4. 🗣 Commented on [#63](https://github.com/configcat/android-sdk/issues/63#issuecomment-2813127884) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-5. 🚀 Published release [v10.4.1](https://github.com/configcat/android-sdk/releases/tag/v10.4.1) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+1. 🎉 Merged PR [#66](https://github.com/configcat/java-sdk/pull/66) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+2. 💪 Opened PR [#66](https://github.com/configcat/java-sdk/pull/66) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+3. 🚀 Published release [v2.4.1](https://github.com/configcat/cli/releases/tag/v2.4.1) in [configcat/cli](https://github.com/configcat/cli)
+4. 🚀 Published release [v9.4.3](https://github.com/configcat/java-sdk/releases/tag/v9.4.3) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+5. 🎉 Merged PR [#38](https://github.com/configcat/cli/pull/38) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
