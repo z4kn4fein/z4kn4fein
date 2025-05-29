@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#545](https://github.com/configcat/docs/pull/545) in [configcat/docs](https://github.com/configcat/docs)
-2. 🎉 Merged PR [#68](https://github.com/configcat/android-sdk/pull/68) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-3. 💪 Opened PR [#68](https://github.com/configcat/android-sdk/pull/68) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-4. 🚀 Published release [v10.4.2](https://github.com/configcat/android-sdk/releases/tag/v10.4.2) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-5. 🎉 Merged PR [#67](https://github.com/configcat/android-sdk/pull/67) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+1. 💪 Opened PR [#57](https://github.com/configcat/kotlin-sdk/pull/57) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+2. 💪 Opened PR [#545](https://github.com/configcat/docs/pull/545) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#68](https://github.com/configcat/android-sdk/pull/68) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+4. 💪 Opened PR [#68](https://github.com/configcat/android-sdk/pull/68) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+5. 🚀 Published release [v10.4.2](https://github.com/configcat/android-sdk/releases/tag/v10.4.2) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
 <!--END_SECTION:activity-->
