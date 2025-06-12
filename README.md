@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/configcat/swift-sdk/pull/49) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-2. 🗣 Commented on [#49](https://github.com/configcat/swift-sdk/pull/49#issuecomment-2939517731) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 💪 Opened PR [#49](https://github.com/configcat/swift-sdk/pull/49) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 🚀 Published release [v4.2.0](https://github.com/configcat/kotlin-sdk/releases/tag/4.2.0) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🎉 Merged PR [#57](https://github.com/configcat/kotlin-sdk/pull/57) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+1. 💪 Opened PR [#50](https://github.com/configcat/swift-sdk/pull/50) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🎉 Merged PR [#49](https://github.com/configcat/swift-sdk/pull/49) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 🗣 Commented on [#49](https://github.com/configcat/swift-sdk/pull/49#issuecomment-2939517731) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. 💪 Opened PR [#49](https://github.com/configcat/swift-sdk/pull/49) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 🚀 Published release [v4.2.0](https://github.com/configcat/kotlin-sdk/releases/tag/4.2.0) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
 <!--END_SECTION:activity-->
