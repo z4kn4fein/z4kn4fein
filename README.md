@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/configcat/swift-sdk/pull/51) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-2. 💪 Opened PR [#51](https://github.com/configcat/swift-sdk/pull/51) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🎉 Merged PR [#50](https://github.com/configcat/swift-sdk/pull/50) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 💪 Opened PR [#50](https://github.com/configcat/swift-sdk/pull/50) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 🎉 Merged PR [#49](https://github.com/configcat/swift-sdk/pull/49) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 💪 Opened PR [#59](https://github.com/configcat/kotlin-sdk/pull/59) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+2. 🎉 Merged PR [#51](https://github.com/configcat/swift-sdk/pull/51) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 💪 Opened PR [#51](https://github.com/configcat/swift-sdk/pull/51) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. 🎉 Merged PR [#50](https://github.com/configcat/swift-sdk/pull/50) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 💪 Opened PR [#50](https://github.com/configcat/swift-sdk/pull/50) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
