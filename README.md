@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.0.0](https://github.com/configcat/kotlin-sdk/releases/tag/5.0.0) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 🎉 Merged PR [#59](https://github.com/configcat/kotlin-sdk/pull/59) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-3. 💪 Opened PR [#59](https://github.com/configcat/kotlin-sdk/pull/59) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-4. 🎉 Merged PR [#51](https://github.com/configcat/swift-sdk/pull/51) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 💪 Opened PR [#51](https://github.com/configcat/swift-sdk/pull/51) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 🚀 Published release [v11.3.0](https://github.com/configcat/swift-sdk/releases/tag/11.3.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🗣 Commented on [#8](https://github.com/configcat/rust-sdk/issues/8#issuecomment-2970606177) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 🚀 Published release [v5.0.0](https://github.com/configcat/kotlin-sdk/releases/tag/5.0.0) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🎉 Merged PR [#59](https://github.com/configcat/kotlin-sdk/pull/59) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 💪 Opened PR [#59](https://github.com/configcat/kotlin-sdk/pull/59) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
 <!--END_SECTION:activity-->
