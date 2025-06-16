@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/configcat/openfeature-swift/releases/tag/0.1.0) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
-2. 💪 Opened PR [#554](https://github.com/configcat/docs/pull/554) in [configcat/docs](https://github.com/configcat/docs)
-3. 🗣 Commented on [#8](https://github.com/configcat/rust-sdk/issues/8#issuecomment-2972860793) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 💪 Opened PR [#9](https://github.com/configcat/rust-sdk/pull/9) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 🚀 Published release [v11.3.0](https://github.com/configcat/swift-sdk/releases/tag/11.3.0) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 💪 Opened PR [#1211](https://github.com/open-feature/openfeature.dev/pull/1211) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
+2. 🎉 Merged PR [#554](https://github.com/configcat/docs/pull/554) in [configcat/docs](https://github.com/configcat/docs)
+3. 🚀 Published release [v0.1.0](https://github.com/configcat/openfeature-swift/releases/tag/0.1.0) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+4. 💪 Opened PR [#554](https://github.com/configcat/docs/pull/554) in [configcat/docs](https://github.com/configcat/docs)
+5. 🗣 Commented on [#8](https://github.com/configcat/rust-sdk/issues/8#issuecomment-2972860793) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
