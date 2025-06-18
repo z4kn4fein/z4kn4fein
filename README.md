@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/configcat/rust-sdk/issues/8#issuecomment-2979835012) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-2. 🚀 Published release [v0.1.3](https://github.com/configcat/rust-sdk/releases/tag/v0.1.3) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 🎉 Merged PR [#9](https://github.com/configcat/rust-sdk/pull/9) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 🗣 Commented on [#9](https://github.com/configcat/rust-sdk/pull/9#issuecomment-2977968707) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 🗣 Commented on [#9](https://github.com/configcat/rust-sdk/pull/9#issuecomment-2977188934) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🎉 Merged PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
+3. 🗣 Commented on [#8](https://github.com/configcat/rust-sdk/issues/8#issuecomment-2979835012) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+4. 🚀 Published release [v0.1.3](https://github.com/configcat/rust-sdk/releases/tag/v0.1.3) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+5. 🎉 Merged PR [#9](https://github.com/configcat/rust-sdk/pull/9) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
