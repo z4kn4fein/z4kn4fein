@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
-3. 🗣 Commented on [#8](https://github.com/configcat/rust-sdk/issues/8#issuecomment-2979835012) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 🚀 Published release [v0.1.3](https://github.com/configcat/rust-sdk/releases/tag/v0.1.3) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 🎉 Merged PR [#9](https://github.com/configcat/rust-sdk/pull/9) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🗣 Commented on [#11](https://github.com/z4kn4fein/cpp-semver/pull/11#issuecomment-3024124702) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+2. 🎉 Merged PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
+4. 🗣 Commented on [#8](https://github.com/configcat/rust-sdk/issues/8#issuecomment-2979835012) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+5. 🚀 Published release [v0.1.3](https://github.com/configcat/rust-sdk/releases/tag/v0.1.3) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
