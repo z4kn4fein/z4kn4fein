@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#581](https://github.com/configcat/docs/pull/581) in [configcat/docs](https://github.com/configcat/docs)
-2. 🗣 Commented on [#571](https://github.com/configcat/docs/pull/571#issuecomment-3024557590) in [configcat/docs](https://github.com/configcat/docs)
-3. 🗣 Commented on [#11](https://github.com/z4kn4fein/cpp-semver/pull/11#issuecomment-3024124702) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-4. 🎉 Merged PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
+1. 🎉 Merged PR [#581](https://github.com/configcat/docs/pull/581) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#581](https://github.com/configcat/docs/pull/581) in [configcat/docs](https://github.com/configcat/docs)
+3. 🗣 Commented on [#571](https://github.com/configcat/docs/pull/571#issuecomment-3024557590) in [configcat/docs](https://github.com/configcat/docs)
+4. 🗣 Commented on [#11](https://github.com/z4kn4fein/cpp-semver/pull/11#issuecomment-3024124702) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+5. 🎉 Merged PR [#560](https://github.com/configcat/docs/pull/560) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
