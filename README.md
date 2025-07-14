@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🎉 Merged PR [#11](https://github.com/z4kn4fein/cpp-semver/pull/11) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-3. 🗣 Commented on [#11](https://github.com/z4kn4fein/cpp-semver/pull/11#issuecomment-3044732209) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
-4. 🎉 Merged PR [#581](https://github.com/configcat/docs/pull/581) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#581](https://github.com/configcat/docs/pull/581) in [configcat/docs](https://github.com/configcat/docs)
+1. 💪 Opened PR [#68](https://github.com/configcat/java-sdk/pull/68) in [configcat/java-sdk](https://github.com/configcat/java-sdk)
+2. 🔓 Reopened issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#11](https://github.com/z4kn4fein/cpp-semver/pull/11) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+4. 🗣 Commented on [#11](https://github.com/z4kn4fein/cpp-semver/pull/11#issuecomment-3044732209) in [z4kn4fein/cpp-semver](https://github.com/z4kn4fein/cpp-semver)
+5. 🎉 Merged PR [#581](https://github.com/configcat/docs/pull/581) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
