@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#584](https://github.com/configcat/docs/pull/584) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#584](https://github.com/configcat/docs/pull/584) in [configcat/docs](https://github.com/configcat/docs)
-3. 🗣 Commented on [#31](https://github.com/configcat/configcat-proxy/issues/31#issuecomment-3132887325) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#583](https://github.com/configcat/docs/pull/583) in [configcat/docs](https://github.com/configcat/docs)
-5. 🗣 Commented on [#39](https://github.com/configcat/cli/issues/39#issuecomment-3078011963) in [configcat/cli](https://github.com/configcat/cli)
+1. 💪 Opened PR [#32](https://github.com/configcat/configcat-proxy/pull/32) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#584](https://github.com/configcat/docs/pull/584) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#584](https://github.com/configcat/docs/pull/584) in [configcat/docs](https://github.com/configcat/docs)
+4. 🗣 Commented on [#31](https://github.com/configcat/configcat-proxy/issues/31#issuecomment-3132887325) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#583](https://github.com/configcat/docs/pull/583) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
