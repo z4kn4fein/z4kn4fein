@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#586](https://github.com/configcat/docs/pull/586) in [configcat/docs](https://github.com/configcat/docs)
-2. 🗣 Commented on [#33](https://github.com/configcat/configcat-proxy/pull/33#issuecomment-3163508711) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 💪 Opened PR [#32](https://github.com/configcat/configcat-proxy/pull/32) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#584](https://github.com/configcat/docs/pull/584) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#584](https://github.com/configcat/docs/pull/584) in [configcat/docs](https://github.com/configcat/docs)
+1. 🎉 Merged PR [#64](https://github.com/configcat/kotlin-sdk/pull/64) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+2. 🎉 Merged PR [#41](https://github.com/configcat/cli/pull/41) in [configcat/cli](https://github.com/configcat/cli)
+3. 💪 Opened PR [#586](https://github.com/configcat/docs/pull/586) in [configcat/docs](https://github.com/configcat/docs)
+4. 🗣 Commented on [#33](https://github.com/configcat/configcat-proxy/pull/33#issuecomment-3163508711) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 💪 Opened PR [#32](https://github.com/configcat/configcat-proxy/pull/32) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
