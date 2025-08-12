@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/configcat/kotlin-sdk/pull/64) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 🎉 Merged PR [#41](https://github.com/configcat/cli/pull/41) in [configcat/cli](https://github.com/configcat/cli)
-3. 💪 Opened PR [#586](https://github.com/configcat/docs/pull/586) in [configcat/docs](https://github.com/configcat/docs)
-4. 🗣 Commented on [#33](https://github.com/configcat/configcat-proxy/pull/33#issuecomment-3163508711) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 💪 Opened PR [#32](https://github.com/configcat/configcat-proxy/pull/32) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 💪 Opened PR [#2](https://github.com/configcat/openfeature-swift/pull/2) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+2. 🎉 Merged PR [#1](https://github.com/configcat/openfeature-python/pull/1) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
+3. 🎉 Merged PR [#1](https://github.com/configcat/openfeature-swift/pull/1) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+4. 🎉 Merged PR [#64](https://github.com/configcat/kotlin-sdk/pull/64) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 🎉 Merged PR [#41](https://github.com/configcat/cli/pull/41) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
