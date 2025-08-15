@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#591](https://github.com/configcat/docs/pull/591) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v5.1.0](https://github.com/configcat/kotlin-sdk/releases/tag/5.1.0) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-3. 🎉 Merged PR [#65](https://github.com/configcat/kotlin-sdk/pull/65) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-4. 🎉 Merged PR [#42](https://github.com/configcat/cli/pull/42) in [configcat/cli](https://github.com/configcat/cli)
-5. 🎉 Merged PR [#2](https://github.com/configcat/openfeature-swift/pull/2) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+1. 🎉 Merged PR [#591](https://github.com/configcat/docs/pull/591) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#591](https://github.com/configcat/docs/pull/591) in [configcat/docs](https://github.com/configcat/docs)
+3. 🚀 Published release [v5.1.0](https://github.com/configcat/kotlin-sdk/releases/tag/5.1.0) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🎉 Merged PR [#65](https://github.com/configcat/kotlin-sdk/pull/65) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 🎉 Merged PR [#42](https://github.com/configcat/cli/pull/42) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
