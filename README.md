@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#594](https://github.com/configcat/docs/pull/594) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#594](https://github.com/configcat/docs/pull/594) in [configcat/docs](https://github.com/configcat/docs)
-3. ❌ Closed PR [#592](https://github.com/configcat/docs/pull/592) in [configcat/docs](https://github.com/configcat/docs)
-4. 🗣 Commented on [#63](https://github.com/configcat/kotlin-sdk/issues/63#issuecomment-3195670871) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🗣 Commented on [#67](https://github.com/configcat/kotlin-sdk/issues/67#issuecomment-3195657532) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+1. 🎉 Merged PR [#596](https://github.com/configcat/docs/pull/596) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#596](https://github.com/configcat/docs/pull/596) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#594](https://github.com/configcat/docs/pull/594) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#594](https://github.com/configcat/docs/pull/594) in [configcat/docs](https://github.com/configcat/docs)
+5. ❌ Closed PR [#592](https://github.com/configcat/docs/pull/592) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
