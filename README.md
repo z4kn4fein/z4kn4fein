@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#600](https://github.com/configcat/docs/pull/600) in [configcat/docs](https://github.com/configcat/docs)
-2. 🎉 Merged PR [#68](https://github.com/configcat/kotlin-sdk/pull/68) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-3. 💪 Opened PR [#1257](https://github.com/open-feature/openfeature.dev/pull/1257) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
-4. 🚀 Published release [v2.0.0](https://github.com/configcat/configcat-proxy/releases/tag/v2.0.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🎉 Merged PR [#32](https://github.com/configcat/configcat-proxy/pull/32) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🎉 Merged PR [#600](https://github.com/configcat/docs/pull/600) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#600](https://github.com/configcat/docs/pull/600) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#68](https://github.com/configcat/kotlin-sdk/pull/68) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 💪 Opened PR [#1257](https://github.com/open-feature/openfeature.dev/pull/1257) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
+5. 🚀 Published release [v2.0.0](https://github.com/configcat/configcat-proxy/releases/tag/v2.0.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
