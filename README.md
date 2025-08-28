@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/configcat/php-sdk/pull/51) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 🎉 Merged PR [#600](https://github.com/configcat/docs/pull/600) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#600](https://github.com/configcat/docs/pull/600) in [configcat/docs](https://github.com/configcat/docs)
-4. 🎉 Merged PR [#68](https://github.com/configcat/kotlin-sdk/pull/68) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 💪 Opened PR [#1257](https://github.com/open-feature/openfeature.dev/pull/1257) in [open-feature/openfeature.dev](https://github.com/open-feature/openfeature.dev)
+1. 💪 Opened PR [#35](https://github.com/configcat/configcat-proxy/pull/35) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#51](https://github.com/configcat/php-sdk/pull/51) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+3. 🎉 Merged PR [#600](https://github.com/configcat/docs/pull/600) in [configcat/docs](https://github.com/configcat/docs)
+4. 💪 Opened PR [#600](https://github.com/configcat/docs/pull/600) in [configcat/docs](https://github.com/configcat/docs)
+5. 🎉 Merged PR [#68](https://github.com/configcat/kotlin-sdk/pull/68) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
 <!--END_SECTION:activity-->
