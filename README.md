@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#601](https://github.com/configcat/docs/pull/601) in [configcat/docs](https://github.com/configcat/docs)
-2. 🎉 Merged PR [#3](https://github.com/configcat/openfeature-kotlin/pull/3) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-3. 💪 Opened PR [#601](https://github.com/configcat/docs/pull/601) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#3](https://github.com/configcat/openfeature-kotlin/pull/3) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-5. 🎉 Merged PR [#56](https://github.com/z4kn4fein/kotlin-semver/pull/56) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+1. 🚀 Published release [v0.2.0](https://github.com/configcat/openfeature-kotlin/releases/tag/0.2.0) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+2. 🎉 Merged PR [#601](https://github.com/configcat/docs/pull/601) in [configcat/docs](https://github.com/configcat/docs)
+3. 🎉 Merged PR [#3](https://github.com/configcat/openfeature-kotlin/pull/3) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+4. 💪 Opened PR [#601](https://github.com/configcat/docs/pull/601) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#3](https://github.com/configcat/openfeature-kotlin/pull/3) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
 <!--END_SECTION:activity-->
