@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/configcat/configcat-proxy/pull/33) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🗣 Commented on [#33](https://github.com/configcat/configcat-proxy/pull/33#issuecomment-3257645876) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🚀 Published release [v0.2.0](https://github.com/configcat/openfeature-kotlin/releases/tag/0.2.0) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-4. 🎉 Merged PR [#601](https://github.com/configcat/docs/pull/601) in [configcat/docs](https://github.com/configcat/docs)
-5. 🎉 Merged PR [#3](https://github.com/configcat/openfeature-kotlin/pull/3) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+1. 🎉 Merged PR [#36](https://github.com/configcat/configcat-proxy/pull/36) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 💪 Opened PR [#36](https://github.com/configcat/configcat-proxy/pull/36) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#33](https://github.com/configcat/configcat-proxy/pull/33) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🗣 Commented on [#33](https://github.com/configcat/configcat-proxy/pull/33#issuecomment-3257645876) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🚀 Published release [v0.2.0](https://github.com/configcat/openfeature-kotlin/releases/tag/0.2.0) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
 <!--END_SECTION:activity-->
