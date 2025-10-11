@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#612](https://github.com/configcat/docs/pull/612) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#612](https://github.com/configcat/docs/pull/612) in [configcat/docs](https://github.com/configcat/docs)
-3. 🗣 Commented on [#31](https://github.com/configcat/configcat-proxy/issues/31#issuecomment-3301959355) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🔒 Closed issue [#31](https://github.com/configcat/configcat-proxy/issues/31) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🎉 Merged PR [#119](https://github.com/configcat/.net-sdk/pull/119) in [configcat/.net-sdk](https://github.com/configcat/.net-sdk)
+1. 🎉 Merged PR [#39](https://github.com/configcat/configcat-proxy/pull/39) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🎉 Merged PR [#612](https://github.com/configcat/docs/pull/612) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#612](https://github.com/configcat/docs/pull/612) in [configcat/docs](https://github.com/configcat/docs)
+4. 🗣 Commented on [#31](https://github.com/configcat/configcat-proxy/issues/31#issuecomment-3301959355) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🔒 Closed issue [#31](https://github.com/configcat/configcat-proxy/issues/31) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
