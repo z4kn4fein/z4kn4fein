@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/configcat/configcat-proxy/pull/39) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🎉 Merged PR [#612](https://github.com/configcat/docs/pull/612) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#612](https://github.com/configcat/docs/pull/612) in [configcat/docs](https://github.com/configcat/docs)
-4. 🗣 Commented on [#31](https://github.com/configcat/configcat-proxy/issues/31#issuecomment-3301959355) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🔒 Closed issue [#31](https://github.com/configcat/configcat-proxy/issues/31) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🗣 Commented on [#200](https://github.com/z4kn4fein/stashbox/pull/200#issuecomment-3375693633) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🔒 Closed issue [#63](https://github.com/configcat/kotlin-sdk/issues/63) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+3. 🗣 Commented on [#63](https://github.com/configcat/kotlin-sdk/issues/63#issuecomment-3375606096) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4.  Unlabeled issue [#63](https://github.com/configcat/kotlin-sdk/issues/63) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 💪 Opened PR [#612](undefined) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
