@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](undefined) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-2.  Unlabeled issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🔓 Reopened issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#200](https://github.com/z4kn4fein/stashbox/pull/200#issuecomment-3375693633) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🔒 Closed issue [#63](https://github.com/configcat/kotlin-sdk/issues/63) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+1. 🚀 Published release [v9.1.0](https://github.com/configcat/go-sdk/releases/tag/v9.1.0) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+2. 💪 Opened PR [#77](undefined) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+3.  Unlabeled issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🔓 Reopened issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#200](https://github.com/z4kn4fein/stashbox/pull/200#issuecomment-3375693633) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
