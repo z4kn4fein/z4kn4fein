@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v9.1.0](https://github.com/configcat/go-sdk/releases/tag/v9.1.0) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-2. 💪 Opened PR [#77](undefined) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-3.  Unlabeled issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🔓 Reopened issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🗣 Commented on [#200](https://github.com/z4kn4fein/stashbox/pull/200#issuecomment-3375693633) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🗣 Commented on [#58](https://github.com/z4kn4fein/kotlin-semver/issues/58#issuecomment-3446622469) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+2. 🗣 Commented on [#22](https://github.com/z4kn4fein/php-semver/issues/22#issuecomment-3446597528) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+3. 🔒 Closed issue [#22](https://github.com/z4kn4fein/php-semver/issues/22) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+4. 🚀 Published release [v9.1.0](https://github.com/configcat/go-sdk/releases/tag/v9.1.0) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+5. 💪 Opened PR [#77](undefined) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
 <!--END_SECTION:activity-->
