@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.5.0](https://github.com/configcat/cli/releases/tag/v2.5.0) in [configcat/cli](https://github.com/configcat/cli)
-2. 💪 Opened PR [#47](undefined) in [configcat/cli](https://github.com/configcat/cli)
-3. 💪 Opened PR [#621](undefined) in [configcat/docs](https://github.com/configcat/docs)
-4. 🗣 Commented on [#58](https://github.com/z4kn4fein/kotlin-semver/issues/58#issuecomment-3446622469) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-5. 🗣 Commented on [#22](https://github.com/z4kn4fein/php-semver/issues/22#issuecomment-3446597528) in [z4kn4fein/php-semver](https://github.com/z4kn4fein/php-semver)
+1. 💪 Opened PR [#48](undefined) in [configcat/cli](https://github.com/configcat/cli)
+2. 🚀 Published release [v2.5.0](https://github.com/configcat/cli/releases/tag/v2.5.0) in [configcat/cli](https://github.com/configcat/cli)
+3. 💪 Opened PR [#47](undefined) in [configcat/cli](https://github.com/configcat/cli)
+4. 💪 Opened PR [#621](undefined) in [configcat/docs](https://github.com/configcat/docs)
+5. 🗣 Commented on [#58](https://github.com/z4kn4fein/kotlin-semver/issues/58#issuecomment-3446622469) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
 <!--END_SECTION:activity-->
