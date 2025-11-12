@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.5.1](https://github.com/configcat/cli/releases/tag/v2.5.1) in [configcat/cli](https://github.com/configcat/cli)
-2. 💪 Opened PR [#49](undefined) in [configcat/cli](https://github.com/configcat/cli)
-3. 💪 Opened PR [#48](undefined) in [configcat/cli](https://github.com/configcat/cli)
-4. 🚀 Published release [v2.5.0](https://github.com/configcat/cli/releases/tag/v2.5.0) in [configcat/cli](https://github.com/configcat/cli)
-5. 💪 Opened PR [#47](undefined) in [configcat/cli](https://github.com/configcat/cli)
+1. 💪 Opened PR [#40](undefined) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🚀 Published release [v2.5.1](https://github.com/configcat/cli/releases/tag/v2.5.1) in [configcat/cli](https://github.com/configcat/cli)
+3. 💪 Opened PR [#49](undefined) in [configcat/cli](https://github.com/configcat/cli)
+4. 💪 Opened PR [#48](undefined) in [configcat/cli](https://github.com/configcat/cli)
+5. 🚀 Published release [v2.5.0](https://github.com/configcat/cli/releases/tag/v2.5.0) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
