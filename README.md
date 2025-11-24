@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#624](undefined) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v2.5.2](https://github.com/configcat/cli/releases/tag/v2.5.2) in [configcat/cli](https://github.com/configcat/cli)
-3. 💪 Opened PR [#50](undefined) in [configcat/cli](https://github.com/configcat/cli)
-4. 💪 Opened PR [#623](undefined) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#40](undefined) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 💪 Opened PR [#4](undefined) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+2. 💪 Opened PR [#624](undefined) in [configcat/docs](https://github.com/configcat/docs)
+3. 🚀 Published release [v2.5.2](https://github.com/configcat/cli/releases/tag/v2.5.2) in [configcat/cli](https://github.com/configcat/cli)
+4. 💪 Opened PR [#50](undefined) in [configcat/cli](https://github.com/configcat/cli)
+5. 💪 Opened PR [#623](undefined) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
