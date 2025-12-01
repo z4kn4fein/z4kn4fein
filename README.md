@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#633](undefined) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#4](undefined) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
-3. 💪 Opened PR [#624](undefined) in [configcat/docs](https://github.com/configcat/docs)
-4. 🚀 Published release [v2.5.2](https://github.com/configcat/cli/releases/tag/v2.5.2) in [configcat/cli](https://github.com/configcat/cli)
+1. 💪 Opened PR [#55](undefined) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+2. 💪 Opened PR [#633](undefined) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#4](undefined) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+4. 💪 Opened PR [#624](undefined) in [configcat/docs](https://github.com/configcat/docs)
 5. 💪 Opened PR [#50](undefined) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
