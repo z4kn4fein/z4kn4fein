@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#55](undefined) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 💪 Opened PR [#55](undefined) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-3. 💪 Opened PR [#633](undefined) in [configcat/docs](https://github.com/configcat/docs)
-4. ❌ Merged PR [#624](undefined) in [configcat/docs](https://github.com/configcat/docs)
-5. ❌ Merged PR [#4](undefined) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+1. ❌ Merged PR [#633](undefined) in [configcat/docs](https://github.com/configcat/docs)
+2. ❌ Merged PR [#55](undefined) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+3. 💪 Opened PR [#55](undefined) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+4. 💪 Opened PR [#633](undefined) in [configcat/docs](https://github.com/configcat/docs)
+5. ❌ Merged PR [#624](undefined) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
