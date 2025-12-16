@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#633](undefined) in [configcat/docs](https://github.com/configcat/docs)
-2. ❌ Merged PR [#55](undefined) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-3. 💪 Opened PR [#55](undefined) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-4. 💪 Opened PR [#633](undefined) in [configcat/docs](https://github.com/configcat/docs)
-5. ❌ Merged PR [#624](undefined) in [configcat/docs](https://github.com/configcat/docs)
+1. 🗣 Commented on [#55](https://github.com/configcat/swift-sdk/issues/55#issuecomment-3659816639) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🔒 Closed issue [#55](https://github.com/configcat/swift-sdk/issues/55) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. ❌ Merged PR [#57](undefined) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. 💪 Opened PR [#57](undefined) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. ❌ Merged PR [#633](undefined) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
