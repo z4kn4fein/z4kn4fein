@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](undefined) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-2. 🗣 Commented on [#55](https://github.com/configcat/swift-sdk/issues/55#issuecomment-3659816639) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🔒 Closed issue [#55](https://github.com/configcat/swift-sdk/issues/55) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. ❌ Merged PR [#57](undefined) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 💪 Opened PR [#57](undefined) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 💪 Opened PR [#11](undefined) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+2. 🗣 Commented on [#10](https://github.com/configcat/rust-sdk/pull/10#issuecomment-3681199167) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 💪 Opened PR [#77](undefined) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
+4. 🗣 Commented on [#55](https://github.com/configcat/swift-sdk/issues/55#issuecomment-3659816639) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 🔒 Closed issue [#55](https://github.com/configcat/swift-sdk/issues/55) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
