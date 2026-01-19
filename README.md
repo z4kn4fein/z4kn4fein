@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/configcat/php-sdk/pull/57#issuecomment-3767181684) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-2. 🚀 Published release [v0.1.4](https://github.com/configcat/rust-sdk/releases/tag/v0.1.4) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 🎉 Merged PR [#11](https://github.com/configcat/rust-sdk/pull/11) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 🗣 Commented on [#68](https://github.com/z4kn4fein/kotlin-semver/issues/68#issuecomment-3690486677) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-5. 💪 Opened PR [#11](https://github.com/configcat/rust-sdk/pull/11) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🚀 Published release [v9.2.1](https://github.com/configcat/php-sdk/releases/tag/v9.2.1) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+2. 🎉 Merged PR [#58](https://github.com/configcat/php-sdk/pull/58) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+3. 💪 Opened PR [#58](https://github.com/configcat/php-sdk/pull/58) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+4. 🚀 Published release [v3.1.0](https://github.com/configcat/php7-sdk/releases/tag/v3.1.0) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
+5. 🎉 Merged PR [#15](https://github.com/configcat/php7-sdk/pull/15) in [configcat/php7-sdk](https://github.com/configcat/php7-sdk)
 <!--END_SECTION:activity-->
