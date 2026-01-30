@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 💪 Opened PR [#54](https://github.com/configcat/cli/pull/54) in [configcat/cli](https://github.com/configcat/cli)
-3. 🗣 Commented on [#68](https://github.com/z4kn4fein/kotlin-semver/issues/68#issuecomment-3768552283) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-4. 🚀 Published release [v9.2.1](https://github.com/configcat/php-sdk/releases/tag/v9.2.1) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-5. 🎉 Merged PR [#58](https://github.com/configcat/php-sdk/pull/58) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+1. 🎉 Merged PR [#658](https://github.com/configcat/docs/pull/658) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#658](https://github.com/configcat/docs/pull/658) in [configcat/docs](https://github.com/configcat/docs)
+3. 🚀 Published release [v3.0.0](https://github.com/configcat/configcat-proxy/releases/tag/v3.0.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🎉 Merged PR [#40](https://github.com/configcat/configcat-proxy/pull/40) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🎉 Merged PR [#623](https://github.com/configcat/docs/pull/623) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
