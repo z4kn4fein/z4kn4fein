@@ -20,8 +20,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.6.0](https://github.com/configcat/cli/releases/tag/v2.6.0) in [configcat/cli](https://github.com/configcat/cli)
-2. 🎉 Merged PR [#54](https://github.com/configcat/cli/pull/54) in [configcat/cli](https://github.com/configcat/cli)
+1. 🗣 Commented on [#12](https://github.com/configcat/rust-sdk/pull/12#issuecomment-4109375010) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+2. 🗣 Commented on [#59](https://github.com/configcat/swift-sdk/issues/59#issuecomment-4109096602) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 3. 🎉 Merged PR [#659](https://github.com/configcat/docs/pull/659) in [configcat/docs](https://github.com/configcat/docs)
 4. 💪 Opened PR [#659](https://github.com/configcat/docs/pull/659) in [configcat/docs](https://github.com/configcat/docs)
 5. 🗣 Commented on [#42](https://github.com/configcat/configcat-proxy/pull/42#issuecomment-3833886436) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
