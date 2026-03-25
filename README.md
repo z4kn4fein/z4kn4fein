@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.5](https://github.com/configcat/rust-sdk/releases/tag/v0.1.5) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-2. 🎉 Merged PR [#13](https://github.com/configcat/rust-sdk/pull/13) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 💪 Opened PR [#13](https://github.com/configcat/rust-sdk/pull/13) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 🗣 Commented on [#12](https://github.com/configcat/rust-sdk/pull/12#issuecomment-4109375010) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 🗣 Commented on [#59](https://github.com/configcat/swift-sdk/issues/59#issuecomment-4109096602) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 💪 Opened PR [#60](https://github.com/configcat/swift-sdk/pull/60) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🚀 Published release [v0.1.5](https://github.com/configcat/rust-sdk/releases/tag/v0.1.5) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 🎉 Merged PR [#13](https://github.com/configcat/rust-sdk/pull/13) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+4. 💪 Opened PR [#13](https://github.com/configcat/rust-sdk/pull/13) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+5. 🗣 Commented on [#12](https://github.com/configcat/rust-sdk/pull/12#issuecomment-4109375010) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
