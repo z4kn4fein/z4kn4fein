@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/z4kn4fein/stashbox/issues/213#issuecomment-4148805711) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🚀 Published release [v11.3.1](https://github.com/configcat/swift-sdk/releases/tag/11.3.1) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🎉 Merged PR [#60](https://github.com/configcat/swift-sdk/pull/60) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 🗣 Commented on [#213](https://github.com/z4kn4fein/stashbox/issues/213#issuecomment-4135890209) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🚀 Published release [Stashbox v5.18.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.18.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🗣 Commented on [#59](https://github.com/configcat/swift-sdk/issues/59#issuecomment-4153209203) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🗣 Commented on [#213](https://github.com/z4kn4fein/stashbox/issues/213#issuecomment-4148805711) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🚀 Published release [v11.3.1](https://github.com/configcat/swift-sdk/releases/tag/11.3.1) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. 🎉 Merged PR [#60](https://github.com/configcat/swift-sdk/pull/60) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 🗣 Commented on [#213](https://github.com/z4kn4fein/stashbox/issues/213#issuecomment-4135890209) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
