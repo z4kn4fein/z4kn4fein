@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Stashbox v5.19.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.19.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🗣 Commented on [#59](https://github.com/configcat/swift-sdk/issues/59#issuecomment-4153209203) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🗣 Commented on [#213](https://github.com/z4kn4fein/stashbox/issues/213#issuecomment-4148805711) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🚀 Published release [v11.3.1](https://github.com/configcat/swift-sdk/releases/tag/11.3.1) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 🎉 Merged PR [#60](https://github.com/configcat/swift-sdk/pull/60) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 💪 Opened PR [#60](https://github.com/configcat/cli/pull/60) in [configcat/cli](https://github.com/configcat/cli)
+2. 🚀 Published release [v3.0.1](https://github.com/configcat/configcat-proxy/releases/tag/v3.0.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#49](https://github.com/configcat/configcat-proxy/pull/49) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 💪 Opened PR [#49](https://github.com/configcat/configcat-proxy/pull/49) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🚀 Published release [Stashbox v5.19.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.19.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
