@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#677](https://github.com/configcat/docs/pull/677) in [configcat/docs](https://github.com/configcat/docs)
-2. 🗣 Commented on [#228](https://github.com/z4kn4fein/stashbox/issues/228#issuecomment-4229735894) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🚀 Published release [Stashbox v5.19.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.19.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#228](https://github.com/z4kn4fein/stashbox/issues/228#issuecomment-4224646639) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🚀 Published release [v2.6.1](https://github.com/configcat/cli/releases/tag/v2.6.1) in [configcat/cli](https://github.com/configcat/cli)
+1. 🗣 Commented on [#228](https://github.com/z4kn4fein/stashbox/issues/228#issuecomment-4242606892) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🚀 Published release [Stashbox v5.19.2](https://github.com/z4kn4fein/stashbox/releases/tag/5.19.2) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🎉 Merged PR [#677](https://github.com/configcat/docs/pull/677) in [configcat/docs](https://github.com/configcat/docs)
+4. 🗣 Commented on [#228](https://github.com/z4kn4fein/stashbox/issues/228#issuecomment-4229735894) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🚀 Published release [Stashbox v5.19.1](https://github.com/z4kn4fein/stashbox/releases/tag/5.19.1) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
