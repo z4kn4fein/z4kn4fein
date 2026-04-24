@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/configcat/rust-sdk/pull/14) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-2. 💪 Opened PR [#14](https://github.com/configcat/rust-sdk/pull/14) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 🎉 Merged PR [#679](https://github.com/configcat/docs/pull/679) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#679](https://github.com/configcat/docs/pull/679) in [configcat/docs](https://github.com/configcat/docs)
-5. 🗣 Commented on [#228](https://github.com/z4kn4fein/stashbox/issues/228#issuecomment-4242606892) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🗣 Commented on [#230](https://github.com/z4kn4fein/stashbox/issues/230#issuecomment-4316523715) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🎉 Merged PR [#14](https://github.com/configcat/rust-sdk/pull/14) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 💪 Opened PR [#14](https://github.com/configcat/rust-sdk/pull/14) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+4. 🎉 Merged PR [#679](https://github.com/configcat/docs/pull/679) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#679](https://github.com/configcat/docs/pull/679) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
