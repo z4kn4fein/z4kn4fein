@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.7.2](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.7.2) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-2. 🗣 Commented on [#230](https://github.com/z4kn4fein/stashbox/issues/230#issuecomment-4317088726) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🚀 Published release [Stashbox v5.19.3](https://github.com/z4kn4fein/stashbox/releases/tag/5.19.3) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#18](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/pull/18#issuecomment-4316766329) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🗣 Commented on [#230](https://github.com/z4kn4fein/stashbox/issues/230#issuecomment-4316523715) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🔒 Closed issue [#59](https://github.com/configcat/swift-sdk/issues/59) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🗣 Commented on [#59](https://github.com/configcat/swift-sdk/issues/59#issuecomment-4325713455) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 🚀 Published release [v5.7.2](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.7.2) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+4. 🗣 Commented on [#230](https://github.com/z4kn4fein/stashbox/issues/230#issuecomment-4317088726) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🚀 Published release [Stashbox v5.19.3](https://github.com/z4kn4fein/stashbox/releases/tag/5.19.3) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
