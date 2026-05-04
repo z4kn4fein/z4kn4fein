@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.1.0](https://github.com/z4kn4fein/kotlin-semver/releases/tag/3.1.0) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
-2. 🗣 Commented on [#232](https://github.com/z4kn4fein/stashbox/issues/232#issuecomment-4356569184) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#230](https://github.com/z4kn4fein/stashbox/issues/230#issuecomment-4342748530) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. ℹ️ Unlabeled issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🔒 Closed issue [#59](https://github.com/configcat/swift-sdk/issues/59) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 🗣 Commented on [#72](https://github.com/z4kn4fein/kotlin-semver/issues/72#issuecomment-4372831905) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+2. 🚀 Published release [3.1.0](https://github.com/z4kn4fein/kotlin-semver/releases/tag/3.1.0) in [z4kn4fein/kotlin-semver](https://github.com/z4kn4fein/kotlin-semver)
+3. 🗣 Commented on [#232](https://github.com/z4kn4fein/stashbox/issues/232#issuecomment-4356569184) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🗣 Commented on [#230](https://github.com/z4kn4fein/stashbox/issues/230#issuecomment-4342748530) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. ℹ️ Unlabeled issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
