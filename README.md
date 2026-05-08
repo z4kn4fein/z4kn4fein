@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.8.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.8.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-2. 🚀 Published release [Stashbox v5.20.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.20.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#232](https://github.com/z4kn4fein/stashbox/issues/232#issuecomment-4387726666) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. ❗ Opened issue [#3176](https://github.com/microsoft/ApplicationInsights-dotnet/issues/3176) in [microsoft/ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet)
-5. ℹ️ Labeled issue [#3176](https://github.com/microsoft/ApplicationInsights-dotnet/issues/3176) in [microsoft/ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet)
+1. 🚀 Published release [v1.1.0](https://github.com/configcat/cli-actions/releases/tag/v1.1.0) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
+2. 🎉 Merged PR [#3](https://github.com/configcat/cli-actions/pull/3) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
+3. 💪 Opened PR [#3](https://github.com/configcat/cli-actions/pull/3) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
+4. 🚀 Published release [v5.8.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.8.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+5. 🚀 Published release [Stashbox v5.20.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.20.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
