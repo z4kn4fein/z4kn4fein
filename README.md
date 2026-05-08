@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/configcat/cli-actions/releases/tag/v1.1.0) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
-2. 🎉 Merged PR [#3](https://github.com/configcat/cli-actions/pull/3) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
-3. 💪 Opened PR [#3](https://github.com/configcat/cli-actions/pull/3) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
-4. 🚀 Published release [v5.8.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v5.8.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🚀 Published release [Stashbox v5.20.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.20.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🎉 Merged PR [#686](https://github.com/configcat/docs/pull/686) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#686](https://github.com/configcat/docs/pull/686) in [configcat/docs](https://github.com/configcat/docs)
+3. 🚀 Published release [v1.1.0](https://github.com/configcat/cli-actions/releases/tag/v1.1.0) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
+4. 🎉 Merged PR [#3](https://github.com/configcat/cli-actions/pull/3) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
+5. 💪 Opened PR [#3](https://github.com/configcat/cli-actions/pull/3) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
 <!--END_SECTION:activity-->
