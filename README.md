@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/configcat/kotlin-sdk/pull/82) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 💪 Opened PR [#82](https://github.com/configcat/kotlin-sdk/pull/82) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-3. 🎉 Merged PR [#77](https://github.com/configcat/android-sdk/pull/77) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
-4. 🎉 Merged PR [#686](https://github.com/configcat/docs/pull/686) in [configcat/docs](https://github.com/configcat/docs)
+1. 💪 Opened PR [#15](https://github.com/configcat/rust-sdk/pull/15) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+2. 🎉 Merged PR [#82](https://github.com/configcat/kotlin-sdk/pull/82) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+3. 💪 Opened PR [#82](https://github.com/configcat/kotlin-sdk/pull/82) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🎉 Merged PR [#77](https://github.com/configcat/android-sdk/pull/77) in [configcat/android-sdk](https://github.com/configcat/android-sdk)
 5. 💪 Opened PR [#686](https://github.com/configcat/docs/pull/686) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
