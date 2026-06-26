@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/configcat/configcat-proxy/pull/52) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🎉 Merged PR [#52](https://github.com/configcat/configcat-proxy/pull/52) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🎉 Merged PR [#15](https://github.com/configcat/rust-sdk/pull/15) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 💪 Opened PR [#15](https://github.com/configcat/rust-sdk/pull/15) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 🎉 Merged PR [#82](https://github.com/configcat/kotlin-sdk/pull/82) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+1. ❌ Closed PR [#53](https://github.com/configcat/configcat-proxy/pull/53) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 💪 Opened PR [#52](https://github.com/configcat/configcat-proxy/pull/52) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🎉 Merged PR [#52](https://github.com/configcat/configcat-proxy/pull/52) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🎉 Merged PR [#15](https://github.com/configcat/rust-sdk/pull/15) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+5. 💪 Opened PR [#15](https://github.com/configcat/rust-sdk/pull/15) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
