@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#53](https://github.com/configcat/configcat-proxy/pull/53) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 💪 Opened PR [#52](https://github.com/configcat/configcat-proxy/pull/52) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🎉 Merged PR [#52](https://github.com/configcat/configcat-proxy/pull/52) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🎉 Merged PR [#15](https://github.com/configcat/rust-sdk/pull/15) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 💪 Opened PR [#15](https://github.com/configcat/rust-sdk/pull/15) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🚀 Published release [v3.0.3](https://github.com/configcat/configcat-proxy/releases/tag/v3.0.3) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🔒 Closed issue [#54](https://github.com/configcat/configcat-proxy/issues/54) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🗣 Commented on [#55](https://github.com/configcat/configcat-proxy/pull/55#issuecomment-4852068862) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. ❌ Closed PR [#53](https://github.com/configcat/configcat-proxy/pull/53) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 💪 Opened PR [#52](https://github.com/configcat/configcat-proxy/pull/52) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
