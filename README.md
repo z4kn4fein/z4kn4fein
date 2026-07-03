@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#698](https://github.com/configcat/docs/pull/698) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#698](https://github.com/configcat/docs/pull/698) in [configcat/docs](https://github.com/configcat/docs)
-3. 🗣 Commented on [#54](https://github.com/configcat/configcat-proxy/issues/54#issuecomment-4853288516) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 🚀 Published release [v3.0.3](https://github.com/configcat/configcat-proxy/releases/tag/v3.0.3) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-5. 🔒 Closed issue [#54](https://github.com/configcat/configcat-proxy/issues/54) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. ❌ Closed PR [#80](https://github.com/configcat/go-sdk/pull/80) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
+2. 🎉 Merged PR [#698](https://github.com/configcat/docs/pull/698) in [configcat/docs](https://github.com/configcat/docs)
+3. 💪 Opened PR [#698](https://github.com/configcat/docs/pull/698) in [configcat/docs](https://github.com/configcat/docs)
+4. 🗣 Commented on [#54](https://github.com/configcat/configcat-proxy/issues/54#issuecomment-4853288516) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 🚀 Published release [v3.0.3](https://github.com/configcat/configcat-proxy/releases/tag/v3.0.3) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
