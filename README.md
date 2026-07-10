@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/configcat/cli/pull/62) in [configcat/cli](https://github.com/configcat/cli)
-2. 💪 Opened PR [#62](https://github.com/configcat/cli/pull/62) in [configcat/cli](https://github.com/configcat/cli)
-3. ❌ Closed PR [#80](https://github.com/configcat/go-sdk/pull/80) in [configcat/go-sdk](https://github.com/configcat/go-sdk)
-4. 🎉 Merged PR [#698](https://github.com/configcat/docs/pull/698) in [configcat/docs](https://github.com/configcat/docs)
-5. 💪 Opened PR [#698](https://github.com/configcat/docs/pull/698) in [configcat/docs](https://github.com/configcat/docs)
+1. 🚀 Published release [v0.3.0](https://github.com/configcat/openfeature-kotlin/releases/tag/0.3.0) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+2. 🎉 Merged PR [#7](https://github.com/configcat/openfeature-kotlin/pull/7) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+3. 💪 Opened PR [#7](https://github.com/configcat/openfeature-kotlin/pull/7) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+4. 🗣 Commented on [#6](https://github.com/configcat/openfeature-kotlin/issues/6#issuecomment-4936853814) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+5. 🚀 Published release [v3.0.4](https://github.com/configcat/configcat-proxy/releases/tag/v3.0.4) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
