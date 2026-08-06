@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#711](https://github.com/configcat/docs/pull/711) in [configcat/docs](https://github.com/configcat/docs)
-2. 💪 Opened PR [#711](https://github.com/configcat/docs/pull/711) in [configcat/docs](https://github.com/configcat/docs)
-3. 🎉 Merged PR [#710](https://github.com/configcat/docs/pull/710) in [configcat/docs](https://github.com/configcat/docs)
-4. 💪 Opened PR [#710](https://github.com/configcat/docs/pull/710) in [configcat/docs](https://github.com/configcat/docs)
-5. 🔒 Closed issue [#6](https://github.com/configcat/openfeature-kotlin/issues/6) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+1. ℹ️ Unlabeled issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. ℹ️ Unlabeled issue [#232](https://github.com/z4kn4fein/stashbox/issues/232) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🗣 Commented on [#261](https://github.com/z4kn4fein/stashbox/pull/261#issuecomment-5202262293) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🎉 Merged PR [#711](https://github.com/configcat/docs/pull/711) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#711](https://github.com/configcat/docs/pull/711) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
