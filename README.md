@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/z4kn4fein/stashbox/pull/239#issuecomment-5205855867) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🗣 Commented on [#241](https://github.com/z4kn4fein/stashbox/pull/241#issuecomment-5205840532) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#243](https://github.com/z4kn4fein/stashbox/pull/243#issuecomment-5205829180) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. ℹ️ Labeled issue [#232](https://github.com/z4kn4fein/stashbox/issues/232) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. ℹ️ Labeled issue [#172](https://github.com/z4kn4fein/stashbox/issues/172) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🔒 Closed issue [#258](https://github.com/z4kn4fein/stashbox/issues/258) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+2. 🗣 Commented on [#258](https://github.com/z4kn4fein/stashbox/issues/258#issuecomment-5239755771) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+3. 🗣 Commented on [#260](https://github.com/z4kn4fein/stashbox/issues/260#issuecomment-5239739883) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🚀 Published release [Stashbox v5.21.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.21.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#239](https://github.com/z4kn4fein/stashbox/pull/239#issuecomment-5205855867) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
