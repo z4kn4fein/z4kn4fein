@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/configcat/configcat-proxy/pull/58) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 💪 Opened PR [#58](https://github.com/configcat/configcat-proxy/pull/58) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🔒 Closed issue [#258](https://github.com/z4kn4fein/stashbox/issues/258) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🗣 Commented on [#258](https://github.com/z4kn4fein/stashbox/issues/258#issuecomment-5239755771) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🗣 Commented on [#260](https://github.com/z4kn4fein/stashbox/issues/260#issuecomment-5239739883) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🗣 Commented on [#19](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/19#issuecomment-5292230861) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+2. 🚀 Published release [v6.0.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v6.0.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+3. 🚀 Published release [v3.0.5](https://github.com/configcat/configcat-proxy/releases/tag/v3.0.5) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+4. 🎉 Merged PR [#58](https://github.com/configcat/configcat-proxy/pull/58) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+5. 💪 Opened PR [#58](https://github.com/configcat/configcat-proxy/pull/58) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
