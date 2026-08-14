@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#258](https://github.com/z4kn4fein/stashbox/issues/258) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-2. 🗣 Commented on [#258](https://github.com/z4kn4fein/stashbox/issues/258#issuecomment-5239755771) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-3. 🗣 Commented on [#260](https://github.com/z4kn4fein/stashbox/issues/260#issuecomment-5239739883) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-4. 🚀 Published release [Stashbox v5.21.0](https://github.com/z4kn4fein/stashbox/releases/tag/5.21.0) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
-5. 🗣 Commented on [#239](https://github.com/z4kn4fein/stashbox/pull/239#issuecomment-5205855867) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+1. 🎉 Merged PR [#58](https://github.com/configcat/configcat-proxy/pull/58) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 💪 Opened PR [#58](https://github.com/configcat/configcat-proxy/pull/58) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+3. 🔒 Closed issue [#258](https://github.com/z4kn4fein/stashbox/issues/258) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+4. 🗣 Commented on [#258](https://github.com/z4kn4fein/stashbox/issues/258#issuecomment-5239755771) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
+5. 🗣 Commented on [#260](https://github.com/z4kn4fein/stashbox/issues/260#issuecomment-5239739883) in [z4kn4fein/stashbox](https://github.com/z4kn4fein/stashbox)
 <!--END_SECTION:activity-->
