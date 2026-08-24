@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/configcat/cli/pull/64) in [configcat/cli](https://github.com/configcat/cli)
-2. 🎉 Merged PR [#713](https://github.com/configcat/docs/pull/713) in [configcat/docs](https://github.com/configcat/docs)
-3. 💪 Opened PR [#713](https://github.com/configcat/docs/pull/713) in [configcat/docs](https://github.com/configcat/docs)
-4. 🗣 Commented on [#19](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/19#issuecomment-5292230861) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🚀 Published release [v6.0.0](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/releases/tag/v6.0.0) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+1. 🗣 Commented on [#4](https://github.com/configcat/cli-actions/pull/4#issuecomment-5396803153) in [configcat/cli-actions](https://github.com/configcat/cli-actions)
+2. 🗣 Commented on [#63](https://github.com/configcat/cli/pull/63#issuecomment-5396166928) in [configcat/cli](https://github.com/configcat/cli)
+3. 🎉 Merged PR [#64](https://github.com/configcat/cli/pull/64) in [configcat/cli](https://github.com/configcat/cli)
+4. 💪 Opened PR [#64](https://github.com/configcat/cli/pull/64) in [configcat/cli](https://github.com/configcat/cli)
+5. 🎉 Merged PR [#713](https://github.com/configcat/docs/pull/713) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
