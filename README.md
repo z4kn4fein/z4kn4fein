@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#721](https://github.com/configcat/docs/pull/721) in [configcat/docs](https://github.com/configcat/docs)
-2. 🚀 Published release [v3.1.0](https://github.com/configcat/configcat-proxy/releases/tag/v3.1.0) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-3. 🎉 Merged PR [#59](https://github.com/configcat/configcat-proxy/pull/59) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-4. 💪 Opened PR [#721](https://github.com/configcat/docs/pull/721) in [configcat/docs](https://github.com/configcat/docs)
-5. 🚀 Published release [v2.8.0](https://github.com/configcat/scan-repository/releases/tag/v2.8.0) in [configcat/scan-repository](https://github.com/configcat/scan-repository)
+1. 🚀 Published release [v0.1.6](https://github.com/configcat/rust-sdk/releases/tag/v0.1.6) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+2. 🎉 Merged PR [#16](https://github.com/configcat/rust-sdk/pull/16) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+3. 💪 Opened PR [#16](https://github.com/configcat/rust-sdk/pull/16) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+4. 🎉 Merged PR [#722](https://github.com/configcat/docs/pull/722) in [configcat/docs](https://github.com/configcat/docs)
+5. 💪 Opened PR [#722](https://github.com/configcat/docs/pull/722) in [configcat/docs](https://github.com/configcat/docs)
 <!--END_SECTION:activity-->
