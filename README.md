@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/19) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-2. 🔒 Closed issue [#17](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/17) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-3. 🔒 Closed issue [#15](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/15) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-4. 🚀 Published release [v0.1.6](https://github.com/configcat/rust-sdk/releases/tag/v0.1.6) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 🎉 Merged PR [#16](https://github.com/configcat/rust-sdk/pull/16) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 💪 Opened PR [#17](https://github.com/configcat/rust-sdk/pull/17) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+2. 🔒 Closed issue [#19](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/19) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+3. 🔒 Closed issue [#17](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/17) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+4. 🔒 Closed issue [#15](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/15) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+5. 🚀 Published release [v0.1.6](https://github.com/configcat/rust-sdk/releases/tag/v0.1.6) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
