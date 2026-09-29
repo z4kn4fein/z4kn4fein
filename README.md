@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/configcat/openfeature-swift/releases/tag/0.2.0) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
-2. 🎉 Merged PR [#6](https://github.com/configcat/openfeature-swift/pull/6) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
-3. 💪 Opened PR [#6](https://github.com/configcat/openfeature-swift/pull/6) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
-4. 🚀 Published release [v0.1.7](https://github.com/configcat/rust-sdk/releases/tag/v0.1.7) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-5. 🎉 Merged PR [#17](https://github.com/configcat/rust-sdk/pull/17) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+1. 🎉 Merged PR [#7](https://github.com/configcat/openfeature-php/pull/7) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
+2. 💪 Opened PR [#7](https://github.com/configcat/openfeature-php/pull/7) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
+3. 🚀 Published release [v1.1.0](https://github.com/configcat/openfeature-python/releases/tag/v1.1.0) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
+4. 🗣 Commented on [#5](https://github.com/configcat/openfeature-python/pull/5#issuecomment-5890243502) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
+5. 🎉 Merged PR [#6](https://github.com/configcat/openfeature-python/pull/6) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
 <!--END_SECTION:activity-->
