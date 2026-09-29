@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.7](https://github.com/configcat/rust-sdk/releases/tag/v0.1.7) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-2. 🎉 Merged PR [#17](https://github.com/configcat/rust-sdk/pull/17) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-3. 💪 Opened PR [#17](https://github.com/configcat/rust-sdk/pull/17) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
-4. 🔒 Closed issue [#19](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/19) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
-5. 🔒 Closed issue [#17](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection/issues/17) in [z4kn4fein/stashbox-extensions-dependencyinjection](https://github.com/z4kn4fein/stashbox-extensions-dependencyinjection)
+1. 🚀 Published release [v0.2.0](https://github.com/configcat/openfeature-swift/releases/tag/0.2.0) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+2. 🎉 Merged PR [#6](https://github.com/configcat/openfeature-swift/pull/6) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+3. 💪 Opened PR [#6](https://github.com/configcat/openfeature-swift/pull/6) in [configcat/openfeature-swift](https://github.com/configcat/openfeature-swift)
+4. 🚀 Published release [v0.1.7](https://github.com/configcat/rust-sdk/releases/tag/v0.1.7) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
+5. 🎉 Merged PR [#17](https://github.com/configcat/rust-sdk/pull/17) in [configcat/rust-sdk](https://github.com/configcat/rust-sdk)
 <!--END_SECTION:activity-->
