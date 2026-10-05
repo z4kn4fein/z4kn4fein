@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/configcat/openfeature-php/pull/7) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
-2. 💪 Opened PR [#7](https://github.com/configcat/openfeature-php/pull/7) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
-3. 🚀 Published release [v1.1.0](https://github.com/configcat/openfeature-python/releases/tag/v1.1.0) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
-4. 🗣 Commented on [#5](https://github.com/configcat/openfeature-python/pull/5#issuecomment-5890243502) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
-5. 🎉 Merged PR [#6](https://github.com/configcat/openfeature-python/pull/6) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
+1. 🗣 Commented on [#9](https://github.com/configcat/openfeature-kotlin/pull/9#issuecomment-5991352587) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+2. 🎉 Merged PR [#7](https://github.com/configcat/openfeature-php/pull/7) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
+3. 💪 Opened PR [#7](https://github.com/configcat/openfeature-php/pull/7) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
+4. 🚀 Published release [v1.1.0](https://github.com/configcat/openfeature-python/releases/tag/v1.1.0) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
+5. 🗣 Commented on [#5](https://github.com/configcat/openfeature-python/pull/5#issuecomment-5890243502) in [configcat/openfeature-python](https://github.com/configcat/openfeature-python)
 <!--END_SECTION:activity-->
