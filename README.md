@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/configcat/openfeature-kotlin/releases/tag/0.4.0) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-2. 🎉 Merged PR [#10](https://github.com/configcat/openfeature-kotlin/pull/10) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-3. 💪 Opened PR [#10](https://github.com/configcat/openfeature-kotlin/pull/10) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-4. 🗣 Commented on [#9](https://github.com/configcat/openfeature-kotlin/pull/9#issuecomment-5991352587) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-5. 🎉 Merged PR [#7](https://github.com/configcat/openfeature-php/pull/7) in [configcat/openfeature-php](https://github.com/configcat/openfeature-php)
+1. 💪 Opened PR [#60](https://github.com/configcat/configcat-proxy/pull/60) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🚀 Published release [v0.4.0](https://github.com/configcat/openfeature-kotlin/releases/tag/0.4.0) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+3. 🎉 Merged PR [#10](https://github.com/configcat/openfeature-kotlin/pull/10) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+4. 💪 Opened PR [#10](https://github.com/configcat/openfeature-kotlin/pull/10) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+5. 🗣 Commented on [#9](https://github.com/configcat/openfeature-kotlin/pull/9#issuecomment-5991352587) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
 <!--END_SECTION:activity-->
