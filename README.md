@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/configcat/configcat-proxy/pull/60) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🚀 Published release [v0.4.0](https://github.com/configcat/openfeature-kotlin/releases/tag/0.4.0) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-3. 🎉 Merged PR [#10](https://github.com/configcat/openfeature-kotlin/pull/10) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-4. 💪 Opened PR [#10](https://github.com/configcat/openfeature-kotlin/pull/10) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
-5. 🗣 Commented on [#9](https://github.com/configcat/openfeature-kotlin/pull/9#issuecomment-5991352587) in [configcat/openfeature-kotlin](https://github.com/configcat/openfeature-kotlin)
+1. 🎉 Merged PR [#60](https://github.com/configcat/configcat-proxy/pull/60) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+2. 🚀 Published release [v0.2.0](https://github.com/configcat/openfeature-ruby/releases/tag/v0.2.0) in [configcat/openfeature-ruby](https://github.com/configcat/openfeature-ruby)
+3. 🎉 Merged PR [#4](https://github.com/configcat/openfeature-ruby/pull/4) in [configcat/openfeature-ruby](https://github.com/configcat/openfeature-ruby)
+4. 💪 Opened PR [#4](https://github.com/configcat/openfeature-ruby/pull/4) in [configcat/openfeature-ruby](https://github.com/configcat/openfeature-ruby)
+5. 🚀 Published release [v3.1.1](https://github.com/configcat/configcat-proxy/releases/tag/v3.1.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
