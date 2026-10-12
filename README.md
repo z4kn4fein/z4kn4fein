@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/configcat/configcat-proxy/pull/60) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
-2. 🚀 Published release [v0.2.0](https://github.com/configcat/openfeature-ruby/releases/tag/v0.2.0) in [configcat/openfeature-ruby](https://github.com/configcat/openfeature-ruby)
-3. 🎉 Merged PR [#4](https://github.com/configcat/openfeature-ruby/pull/4) in [configcat/openfeature-ruby](https://github.com/configcat/openfeature-ruby)
-4. 💪 Opened PR [#4](https://github.com/configcat/openfeature-ruby/pull/4) in [configcat/openfeature-ruby](https://github.com/configcat/openfeature-ruby)
-5. 🚀 Published release [v3.1.1](https://github.com/configcat/configcat-proxy/releases/tag/v3.1.1) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 🚀 Published release [4.2.1](https://github.com/configcat/dart-sdk/releases/tag/4.2.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+2. 🎉 Merged PR [#47](https://github.com/configcat/dart-sdk/pull/47) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🚀 Published release [4.2.0](https://github.com/configcat/dart-sdk/releases/tag/4.2.0) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+4. 💪 Opened PR [#47](https://github.com/configcat/dart-sdk/pull/47) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+5. 🎉 Merged PR [#60](https://github.com/configcat/configcat-proxy/pull/60) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
 <!--END_SECTION:activity-->
