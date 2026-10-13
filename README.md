@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [4.2.1](https://github.com/configcat/dart-sdk/releases/tag/4.2.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-2. 🎉 Merged PR [#47](https://github.com/configcat/dart-sdk/pull/47) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-3. 🚀 Published release [4.2.0](https://github.com/configcat/dart-sdk/releases/tag/4.2.0) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-4. 💪 Opened PR [#47](https://github.com/configcat/dart-sdk/pull/47) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-5. 🎉 Merged PR [#60](https://github.com/configcat/configcat-proxy/pull/60) in [configcat/configcat-proxy](https://github.com/configcat/configcat-proxy)
+1. 💪 Opened PR [#48](https://github.com/configcat/dart-sdk/pull/48) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+2. 🚀 Published release [4.2.1](https://github.com/configcat/dart-sdk/releases/tag/4.2.1) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 🎉 Merged PR [#47](https://github.com/configcat/dart-sdk/pull/47) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+4. 🚀 Published release [4.2.0](https://github.com/configcat/dart-sdk/releases/tag/4.2.0) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+5. 💪 Opened PR [#47](https://github.com/configcat/dart-sdk/pull/47) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
 <!--END_SECTION:activity-->
