@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/configcat/flutter-preferences-cache/pull/15#issuecomment-6634360557) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-2. 🚀 Published release [2.1.0](https://github.com/configcat/flutter-preferences-cache/releases/tag/2.1.0) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-3. 🎉 Merged PR [#16](https://github.com/configcat/flutter-preferences-cache/pull/16) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-4. 💪 Opened PR [#16](https://github.com/configcat/flutter-preferences-cache/pull/16) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-5. 🚀 Published release [5.1.0](https://github.com/configcat/dart-sdk/releases/tag/5.1.0) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 🗣 Commented on [#1964](https://github.com/open-feature/java-sdk-contrib/pull/1964#issuecomment-6770757777) in [open-feature/java-sdk-contrib](https://github.com/open-feature/java-sdk-contrib)
+2. 🗣 Commented on [#15](https://github.com/configcat/flutter-preferences-cache/pull/15#issuecomment-6634360557) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+3. 🚀 Published release [2.1.0](https://github.com/configcat/flutter-preferences-cache/releases/tag/2.1.0) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+4. 🎉 Merged PR [#16](https://github.com/configcat/flutter-preferences-cache/pull/16) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
+5. 💪 Opened PR [#16](https://github.com/configcat/flutter-preferences-cache/pull/16) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
 <!--END_SECTION:activity-->
