@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/configcat/kotlin-sdk/pull/96) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-2. 🗣 Commented on [#64](https://github.com/configcat/swift-sdk/issues/64#issuecomment-6912764664) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🗣 Commented on [#65](https://github.com/configcat/swift-sdk/issues/65#issuecomment-6912751371) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-4. 🚀 Published release [v9.2.2](https://github.com/configcat/php-sdk/releases/tag/v9.2.2) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
-5. 🗣 Commented on [#62](https://github.com/configcat/php-sdk/pull/62#issuecomment-6912540069) in [configcat/php-sdk](https://github.com/configcat/php-sdk)
+1. 💪 Opened PR [#66](https://github.com/configcat/swift-sdk/pull/66) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🎉 Merged PR [#96](https://github.com/configcat/kotlin-sdk/pull/96) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+3. 💪 Opened PR [#96](https://github.com/configcat/kotlin-sdk/pull/96) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+4. 🗣 Commented on [#64](https://github.com/configcat/swift-sdk/issues/64#issuecomment-6912764664) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 🗣 Commented on [#65](https://github.com/configcat/swift-sdk/issues/65#issuecomment-6912751371) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
