@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/configcat/dart-sdk/pull/55) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
-2. 💪 Opened PR [#66](https://github.com/configcat/swift-sdk/pull/66) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-3. 🎉 Merged PR [#96](https://github.com/configcat/kotlin-sdk/pull/96) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-4. 💪 Opened PR [#96](https://github.com/configcat/kotlin-sdk/pull/96) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
-5. 🗣 Commented on [#64](https://github.com/configcat/swift-sdk/issues/64#issuecomment-6912764664) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 💪 Opened PR [#732](https://github.com/configcat/docs/pull/732) in [configcat/docs](https://github.com/configcat/docs)
+2. 💪 Opened PR [#55](https://github.com/configcat/dart-sdk/pull/55) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+3. 💪 Opened PR [#66](https://github.com/configcat/swift-sdk/pull/66) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. 🎉 Merged PR [#96](https://github.com/configcat/kotlin-sdk/pull/96) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
+5. 💪 Opened PR [#96](https://github.com/configcat/kotlin-sdk/pull/96) in [configcat/kotlin-sdk](https://github.com/configcat/kotlin-sdk)
 <!--END_SECTION:activity-->
