@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.0.0](https://github.com/configcat/flutter-preferences-cache/releases/tag/3.0.0) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-2. 🎉 Merged PR [#17](https://github.com/configcat/flutter-preferences-cache/pull/17) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-3. 💪 Opened PR [#17](https://github.com/configcat/flutter-preferences-cache/pull/17) in [configcat/flutter-preferences-cache](https://github.com/configcat/flutter-preferences-cache)
-4. 🎉 Merged PR [#732](https://github.com/configcat/docs/pull/732) in [configcat/docs](https://github.com/configcat/docs)
-5. 🚀 Published release [6.0.0](https://github.com/configcat/dart-sdk/releases/tag/6.0.0) in [configcat/dart-sdk](https://github.com/configcat/dart-sdk)
+1. 🗣 Commented on [#64](https://github.com/configcat/swift-sdk/issues/64#issuecomment-7081575132) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+2. 🗣 Commented on [#65](https://github.com/configcat/swift-sdk/issues/65#issuecomment-7081569106) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+3. 🚀 Published release [11.3.2](https://github.com/configcat/swift-sdk/releases/tag/11.3.2) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+4. 🎉 Merged PR [#66](https://github.com/configcat/swift-sdk/pull/66) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+5. 💪 Opened PR [#66](https://github.com/configcat/cli/pull/66) in [configcat/cli](https://github.com/configcat/cli)
 <!--END_SECTION:activity-->
