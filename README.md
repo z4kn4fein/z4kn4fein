@@ -20,9 +20,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/configcat/cli/pull/67) in [configcat/cli](https://github.com/configcat/cli)
-2. 🚀 Published release [v2.7.0](https://github.com/configcat/cli/releases/tag/v2.7.0) in [configcat/cli](https://github.com/configcat/cli)
-3. 🎉 Merged PR [#66](https://github.com/configcat/cli/pull/66) in [configcat/cli](https://github.com/configcat/cli)
-4. 🗣 Commented on [#64](https://github.com/configcat/swift-sdk/issues/64#issuecomment-7081575132) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
-5. 🗣 Commented on [#65](https://github.com/configcat/swift-sdk/issues/65#issuecomment-7081569106) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
+1. 🎉 Merged PR [#67](https://github.com/configcat/cli/pull/67) in [configcat/cli](https://github.com/configcat/cli)
+2. 💪 Opened PR [#67](https://github.com/configcat/cli/pull/67) in [configcat/cli](https://github.com/configcat/cli)
+3. 🚀 Published release [v2.7.0](https://github.com/configcat/cli/releases/tag/v2.7.0) in [configcat/cli](https://github.com/configcat/cli)
+4. 🎉 Merged PR [#66](https://github.com/configcat/cli/pull/66) in [configcat/cli](https://github.com/configcat/cli)
+5. 🗣 Commented on [#64](https://github.com/configcat/swift-sdk/issues/64#issuecomment-7081575132) in [configcat/swift-sdk](https://github.com/configcat/swift-sdk)
 <!--END_SECTION:activity-->
